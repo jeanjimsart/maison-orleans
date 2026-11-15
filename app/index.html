@@ -285,7 +285,8 @@ body { margin: 0; }
 :root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
 img { max-width: 100%; }
 [hidden] { display: none !important; }
-#hello { max-width: 420px; }
+#hello { width: min(420px, calc(100vw - 32px)); height: fit-content !important; margin: auto; max-height: calc(100dvh - 32px); border-radius: 18px; }
+#hello img { width: 64px; height: 64px; border-radius: 15px; }
 #hello form { padding: 22px; display: grid; gap: 14px; }
 #hello h2 { font-size: 24px; font-weight: 800; }
 .who { display: flex; gap: 8px; flex-wrap: wrap; }
@@ -360,7 +361,7 @@ img { max-width: 100%; }
 
 <dialog id="hello" aria-labelledby="h-title">
   <form id="h-form">
-    <h2 id="h-title">Bienvenue</h2>
+    <img src="apple-touch-icon.png" alt=""><h2 id="h-title">J'aime les beaux volumes</h2>
     <p class="small" style="margin:0">Pour partager les cœurs, notes et statuts entre vos deux téléphones.</p>
     <div class="field"><label>Qui es-tu ?</label>
       <div class="who" id="h-who"><button type="button" class="btn" data-n="Julien">Julien</button><input type="text" id="h-name" placeholder="Ou ton prénom" style="flex:1;min-width:120px"></div></div>
