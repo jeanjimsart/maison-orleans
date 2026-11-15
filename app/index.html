@@ -795,7 +795,7 @@ const CFG = window.BV_CONFIG || {};
 let CODE = "";
 const store = {get: k => { try { return localStorage.getItem(k) || ""; } catch { return ""; } }, set: (k, v) => { try { localStorage.setItem(k, v); } catch {} }};
 async function rpc(fn, body) {
-  const r = await fetch(`${CFG.url}/rest/v1/rpc/${fn}`, {method: "POST", headers: {"Content-Type": "application/json", apikey: CFG.key, Authorization: "Bearer " + CFG.key}, body: JSON.stringify(body)});
+  const r = await fetch(`${CFG.url}/rest/v1/rpc/${fn}`, {method: "POST", headers: {"Content-Type": "application/json", apikey: CFG.key, ...(CFG.key.startsWith("eyJ") ? {Authorization: "Bearer " + CFG.key} : {})}, body: JSON.stringify(body)});
   if (!r.ok) throw new Error((await r.text()) || r.status);
   const t = await r.text(); return t ? JSON.parse(t) : null;
 }
