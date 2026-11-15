@@ -18,7 +18,7 @@ Ne jamais répondre, envoyer, supprimer ou modifier un e-mail. Ne pas ouvrir les
 `bash build.sh`
 
 ## 3. Publication
-1. Outil Artifact, `action: "read"`, `url` = la page ci-dessus (obligatoire avant de republier).
+1. Outil Artifact, `action: "read"`, `url` = la page ci-dessus, PUIS `action: "read"` avec `path: "data.json"` (les deux lectures sont obligatoires, sinon la publication est refusée).
 2. Outil Artifact, publication : `url` = la page, `file_path` = chemin absolu de `site/index.html`, `root` = chemin absolu de `site`,
    `files` = `data.json` + chaque ligne de `site/nouveaux_fichiers.txt` (254 maximum par envoi ; au-delà, plusieurs envois).
    Ne pas passer `capabilities` ni `icon`.
