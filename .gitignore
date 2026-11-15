@@ -1,0 +1,5 @@
+data/photos_cache/
+data/index_v1.html
+site/apercu.html
+__pycache__/
+.DS_Store
