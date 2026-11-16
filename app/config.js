@@ -1,2 +1,2 @@
 // Base de suivi partagé (Supabase). La clé « anon » est publique : sans le code famille elle ne donne accès à rien.
-window.BV_CONFIG = { url: "https://szhihfkrggixzwnsbkga.supabase.co", key: "" };
+window.BV_CONFIG = { url: "https://szhihfkrggixzwnsbkga.supabase.co", key: "sb_publishable_wTxvn0uS8Y6DAMmjirunLg_VdqIIj7C" };
