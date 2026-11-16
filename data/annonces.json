@@ -7115,12 +7115,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/f7a50a7b66fd118c4e6d3898345b4841/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/1e962b17165eb838b960e4f4ad77943a/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -12720,7 +12720,7 @@
   "piscine": null,
   "jardin": true,
   "publication": "1970-01-01T00:00:00.000Z",
-  "baisse_signalee": true,
+  "baisse_signalee": false,
   "lat": 47.86224224811195,
   "lon": 2.125756236147374,
   "bbox": [
@@ -15299,7 +15299,7 @@
  "leboncoin:3310507958": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3310507958.htm",
-  "titre": "Maison 6 pièces 105 m² – Traînou",
+  "titre": "Maison 6 pièces 105 m²",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 261132,
@@ -15337,7 +15337,7 @@
  "leboncoin:3310496561": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3310496561.htm",
-  "titre": "Maison 5 pièces 125 m² – Châteauneuf-sur-Loire",
+  "titre": "Maison 5 pièces 125 m²",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 366280,
@@ -15375,7 +15375,7 @@
  "leboncoin:3240260695": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3240260695.htm",
-  "titre": "Maison 5 pièces 158 m² – Vitry-aux-Loges",
+  "titre": "Maison 5 pièces 158 m²",
   "ville": "Vitry-aux-Loges",
   "cp": "45530",
   "prix": 269500,
@@ -15407,6 +15407,104 @@
    {
     "date": "2026-11-16",
     "prix": 269500
+   }
+  ]
+ },
+ "bienici:ag440414-560498591": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/ag440414-560498591",
+  "titre": "Exclusivité - Maison prestige avec beaucoup de cachet à 2 pas des commerces, du parc et de la Loire à Chateauneuf Sur Loire",
+  "ville": "Châteauneuf-sur-Loire",
+  "cp": "45110",
+  "prix": 399000,
+  "surface": 246,
+  "terrain": 21,
+  "pieces": 8,
+  "chambres": 5,
+  "dpe": "D",
+  "dpe_valeur": 151,
+  "annee": 1900,
+  "description": "Delphine VENON vous présente  en exclusivité en hypercentre de Châteauneuf sur Loire à 2 pas des commerces, du parc et de la Loire une maison de maître rénovée en 2004 comprenant au rez de chaussée :  Entrée, Pièce de vie de plus de 70 m² comprenant séjour / salon avec cheminée ouvrant sur patio, cuisine ouverte  aménagée et équipée avec piano de cuisson, arriere-cuisine, cellier, wc avec lave mains, chambre avec salle d'eau attenante. Au 1er étage :  Mezzanine, suite parentale avec dressing, salle de bains + douche + Wc. Appartement  de 62 m² environ (relié à la maison ou pouvant être indépendant) comprenant : pièce de vie avec cheminée, séjour cuisine ouvrant sur une terrasse, chambre, salle de bains, Wc- Au 2ème étage : Palier, Mezzanine, chambre, salle d'eau wc et bureau-  Cave  - Patio - Garage avec porte électrique ouvrant sur rue. L'ensemble sur un terrain de 205 m² environ - Double vitrage et chauffage central gaz de ville -   Budget : 399 000  euros Honoraires inclus 5 % TTC charge acquéreur soit  380 000  euros hors honoraires -\nPour visiter et obtenir plus de renseignements, contactez Delphine VENON au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.11.73.16.67</span> -  Mandat n°472471. Achat, vente, estimation, valorisation immobilière, contactez Delphine VENON votre Conseiller Immobilier à Châteauneuf sur Loire - ESTIMATION GRATUITE\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr\nCette présente annonce a été rédigée sous la responsabilité éditoriale de Delphine VENON,  conseiller immobilier indépendant à Châteauneuf sur Loire sous portage salarial agissant auprès de la SAS PROPRIETES PRIVEES, Réseau national immobilier, au capital de 40000  euros, 44 ALLÉE DES CINQ CONTINENTS - ZAC LE CHÊNE FERRÉ, 44120 VERTOU, RCS Nantes n° 487 624 777 00040, Carte professionnelle T et G n° CPI 4401 2016 000 010 388 CCI Nantes-Saint Nazaire. Garantie GALIAN - 89 rue de la Boétie, 75008 Paris - Le professionnel garantit et sécurise votre projet immobilier\n (5.00 % honoraires TTC à la charge de l'acquéreur.)",
+  "photos": [
+   "https://photos.ubiflow.net/440414/560498591/photos/1.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/2.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/3.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/4.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/5.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/6.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/7.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/8.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/9.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/10.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/11.jpg?INSOON_EB_5512801818_20261116175557",
+   "https://photos.ubiflow.net/440414/560498591/photos/12.jpg?INSOON_EB_5512801818_20261116175557"
+  ],
+  "vendeur": "mandatary",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": false,
+  "jardin": true,
+  "cave": true,
+  "cheminee": true,
+  "terrasse": true,
+  "publication": "2026-11-16T17:55:07.334Z",
+  "baisse_signalee": false,
+  "lat": 47.86319225065943,
+  "lon": 2.2211770892945544,
+  "bbox": [
+   2.2195033826629147,
+   47.86206934839464,
+   2.222850795926194,
+   47.86431515292422
+  ],
+  "flou": "disk",
+  "flou_rayon": 125,
+  "premier_vu": "2026-11-16",
+  "vu_le": "2026-11-16",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-16",
+    "prix": 399000
+   }
+  ]
+ },
+ "pap:464501723": {
+  "source": "pap",
+  "url": "https://www.pap.fr/annonces/-r464501723",
+  "titre": "Maison 190 m² à Fay-aux-Loges",
+  "ville": "Fay-aux-Loges",
+  "cp": "45450",
+  "prix": 285000,
+  "surface": 190,
+  "terrain": null,
+  "pieces": null,
+  "chambres": null,
+  "dpe": null,
+  "dpe_valeur": null,
+  "annee": null,
+  "description": "",
+  "photos": [],
+  "vendeur": "particulier",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": null,
+  "piscine": null,
+  "jardin": null,
+  "publication": null,
+  "baisse_signalee": false,
+  "lat": null,
+  "lon": null,
+  "bbox": null,
+  "flou": null,
+  "premier_vu": "2026-11-16",
+  "vu_le": "2026-11-16",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-16",
+    "prix": 285000
    }
   ]
  }
