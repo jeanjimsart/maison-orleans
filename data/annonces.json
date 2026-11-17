@@ -7119,12 +7119,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/823f5c5239adef3199ed698cf05d1217/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -15617,7 +15617,7 @@
  "leboncoin:3311198935": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3311198935.htm",
-  "titre": "Maison 6 pièces 108 m² Châteauneuf-sur-Loire",
+  "titre": "Maison 6 pièces 108 m²",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 183600,
@@ -15657,7 +15657,7 @@
  "leboncoin:3311136863": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3311136863.htm",
-  "titre": "Maison 6 pièces 120 m² Châteauneuf-sur-Loire",
+  "titre": "Maison 6 pièces 120 m²",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 291030,
@@ -15697,7 +15697,7 @@
  "leboncoin:3310816520": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3310816520.htm",
-  "titre": "Maison 6 pièces 190 m² Fay-aux-Loges",
+  "titre": "Maison 6 pièces 190 m²",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 285000,
@@ -15731,6 +15731,121 @@
    {
     "date": "2026-11-17",
     "prix": 285000
+   }
+  ]
+ },
+ "bienici:safti-1-1733945": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/safti-1-1733945",
+  "titre": "Masion de ville avec son extérieur",
+  "ville": "Orléans",
+  "cp": "45100",
+  "prix": 328000,
+  "surface": 105,
+  "terrain": 110,
+  "pieces": 4,
+  "chambres": 3,
+  "dpe": "D",
+  "dpe_valeur": 211,
+  "annee": 1930,
+  "description": "Maison de 1930 rénovée — Orléans, limite Saint-Jean-le-Blanc<br>À deux pas des bords de Loire, laissez-vous séduire par cette maison de ville datant de 1930, rénovée avec soin. Elle conjugue la robustesse des constructions anciennes en moellons au confort d’une habitation contemporaine, dans un environnement recherché à l’orée d’Orléans, en limite de Saint-Jean-le-Blanc. Dès l’entrée, la lumière devient invitante : un bel espace de vie pleinement orienté sud s’ouvre sur la journée, baigné de clarté et pensé pour les instants partagés. Dans sa continuité, la cuisine fermée, aménagée et équipée, trouve naturellement sa place, accompagnée d’un pratique cellier. Les deux étages accueillent trois chambres, autant d’espaces de repos et d’intimité, desservis par une salle d’eau. Chaque niveau respire la douceur d’un foyer où l’on se sent immédiatement chez soi. À l’extérieur, une terrasse paysagée prolonge la maison vers le jardin : un écrin de verdure pour les petits-déjeuners au soleil, les repas d’été ou les soirées qui s’étirent. Une cave complète ce bien, tandis qu’un stationnement vous attend à quelques mètres seulement. Idéalement située, la maison profite de la proximité des bords de Loire et de l’arrêt de tram Tourelles – Dauphine, à quelques minutes à pied, et du pont Royal pour rejoindre aisément le cœur d’Orléans. Une adresse rare, où le confort rencontre la lumière du sud, la quiétude d’un extérieur paysagé et la vitalité d’Orléans. Surface sol : 105 m2- Surface habitable : 93 m2.<br> <br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr<br>Prix de vente : 328 000 €<br>Honoraires charge vendeur<br> <br>Contactez votre conseiller SAFTI : Grégory BOUCHARD, Tél. : <span class=\"importDescriptionDecorator\" data-type=\"phone\">0637111143</span>, E-mail : <span class=\"importDescriptionDecorator\" data-type=\"email\">gregory.bouchard@safti.fr</span> - EI - Agent commercial immatriculé au RSAC de ORLEANS sous le numéro 451656011",
+  "photos": [
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/8d4461494d1e2904751185ca1fb0441425940240/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/442b43a36b9ffac4fc3ea4496d7c0eb7734cdc21/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/7bf91148253dfd054841a1e660a46d969c12c3dd/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/c7204b5586b38c54764d04bb6f8fe2d939bdcaf0/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/11c394549d11fa1e436d66114a064c63e1dadb96/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/efbed8c24f652b340698fd3f351da450a0fd3726/rg.jpg",
+   "https://cdn.safti.fr/bien-photo/71/33/1733945/c37f67607e55d030bf82ecbad6587905f75e1878/rg.jpg"
+  ],
+  "vendeur": "mandatary",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": false,
+  "piscine": false,
+  "jardin": true,
+  "cave": true,
+  "cheminee": null,
+  "terrasse": true,
+  "publication": "2026-10-30T21:00:42.447Z",
+  "baisse_signalee": false,
+  "lat": 47.892792084696865,
+  "lon": 1.9113914553666402,
+  "bbox": [
+   1.9080420553402493,
+   47.890546263832434,
+   1.9147408553930312,
+   47.895037905561296
+  ],
+  "flou": "disk",
+  "flou_rayon": 250,
+  "premier_vu": "2026-11-17",
+  "vu_le": "2026-11-17",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-17",
+    "prix": 328000
+   }
+  ]
+ },
+ "bienici:netty-company58494kzv-house-1832": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/netty-company58494kzv-house-1832",
+  "titre": "VENTE d'une maison T8 (180 m²) à JARGEAU",
+  "ville": "Jargeau",
+  "cp": "45150",
+  "prix": 280000,
+  "surface": 180,
+  "terrain": 1100,
+  "pieces": 8,
+  "chambres": 6,
+  "dpe": "E",
+  "dpe_valeur": 284,
+  "annee": null,
+  "description": "Venez découvrir cette belle demeure de caractère au potentiel certain et idéalement situé. Parfait pour une famille à la recherche d'espace, elle ce compose au RDC d'une entrée desservant un séjour lumineux avec sa grande baie vitrée ouverte sur la terrasse, une cuisine indépendante équipée et aménagée fonctionnelle , un vaste salon séjour de plus de 55m2 avec cheminée et poutres apparentes, une chambre ou un bureau , une salle d'eau ainsi qu'un WC indépendant. A l'étage un palier, 3 Chambres de 10 à 14m2 , une salle de bain , un wc, s'ensuit 2 Chambres indépendante de 14 et 17m2. Coté jardin une parcelle arborée et soigné dotée de 2 garages, le premier de 27m2 avec porte motorisée, le second quant à lui est indépendant et fais 14M2, autre dépendance et pas des moindres un chalet sur dalle béton isolé et pourvu d'électricité de 15m.<br>Les honoraires sont à la charge du vendeur.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr<br>Prenez contact avec votre agent dédié Henri POLAILLON EI (RSAC 831996673 - Greffe d'Orléans) au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06.61.97.41.88</span> pour une première visite.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques du gouvernement.<br>Honoraires à la charge du vendeur.  Classe énergie E, Classe climat E Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 3930.00 € et 5380.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAM INFINITY : Henri POLAILLON<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 831996673",
+  "photos": [
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162889_VM1832_1_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1765969849_VM1832_16_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162890_VM1832_2_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162890_VM1832_3_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162891_VM1832_4_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162891_VM1832_5_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1765364523_VM1832_14_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1765364531_VM1832_15_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162892_VM1832_8_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162892_VM1832_7_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162893_VM1832_9_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM1832/1763162893_VM1832_10_original.jpg"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": null,
+  "jardin": true,
+  "cave": false,
+  "cheminee": null,
+  "terrasse": false,
+  "publication": "2026-11-17T17:07:46.790Z",
+  "baisse_signalee": false,
+  "lat": 47.86184546963172,
+  "lon": 2.116097169758187,
+  "bbox": [
+   2.1144235088116674,
+   47.8607225673671,
+   2.1177708307047065,
+   47.862968371896336
+  ],
+  "flou": "disk",
+  "flou_rayon": 125,
+  "premier_vu": "2026-11-17",
+  "vu_le": "2026-11-17",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-17",
+    "prix": 280000
    }
   ]
  }
