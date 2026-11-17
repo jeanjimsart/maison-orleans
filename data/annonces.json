@@ -1565,13 +1565,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.91630223584443,
-  "lon": 1.9152393795166358,
+  "lat": 47.916263235844426,
+  "lon": 1.9152733792118333,
   "bbox": [
-   1.9145692101889058,
-   47.91585307689567,
-   1.9159095488443658,
-   47.91675139479318
+   1.9146032103892454,
+   47.91581407689567,
+   1.9159435480344211,
+   47.91671239479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-17",
@@ -5486,7 +5486,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-17",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7115,12 +7115,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/88a876890181d1941a24b4c4f3c05f30/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/9d33f5d9ee861148b4dfcc671b049311/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -13525,9 +13525,8 @@
   "annee": 1966,
   "description": "Votre agence Espace Immobilier vous présente une maison totalement rénovée d'environ 115 m2 comprenant, au rez-de-chaussée, une entrée, un séjour-salon qui donne accès à une véranda, une cuisine aménagée et équipée, un couloir, un WC séparé, une salle d'eau avec une douche à l'italienne et une chambre d'enfant.<br> À l'étage, un palier, une salle de bains avec WC et trois belles chambres avec dressing. <br> Jardin arboré et totalement clôturé d'environ 1 149 m2 avec une terrasse carrelée refaite, exposée plein sud, et une dépendance.<br> Muret de façade et portail motorisé neufs.<br> La maison comprend également un sous-sol total comprenant un garage, une chaufferie, une cave et une buanderie.<br> Les atouts de cette maison : rénovation complète récente, chauffage par pompe à chaleur, pas de travaux, proximité des commodités et des commerces.<br> 5 minutes à pied des bords de Loire.<br>",
   "photos": [
-   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_8fadbc1d414dbba95fd1ee45811b6e9b.jpg",
-   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_8702c27b9a0745f9016b10a23cdede97.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_6c9ea97a91846a0bb83f5313ac6c6d5d.jpg",
+   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_8702c27b9a0745f9016b10a23cdede97.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_5e50c25288ada84ea4e0acaf2b03c71e.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_7e39a5fc43a6510a324c9e2c8480439c.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_7b14910e3fe375174c676469aa5d376c.jpg",
@@ -13536,7 +13535,8 @@
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_4af4630584f37845e693d9d5e91bcc0f.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_ef51c635c693c92d5f5868da92db2e67.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_240878770922a1fbec8ef9f827bc96db.jpg",
-   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_43fa3824ebc47809a5acc6c31089db33.jpg"
+   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_43fa3824ebc47809a5acc6c31089db33.jpg",
+   "https://espimmoloiret.staticlbi.com/original/images/biens/1/c91703c98136605343b94206aefcff4b/photo_8fadbc1d414dbba95fd1ee45811b6e9b.jpg"
   ],
   "vendeur": "agency",
   "type_annonce": "buy",
@@ -15475,7 +15475,7 @@
  "pap:464501723": {
   "source": "pap",
   "url": "https://www.pap.fr/annonces/-r464501723",
-  "titre": "Vente maison 190 m²",
+  "titre": "Vente maison 190 m² Fay-aux-Loges",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 285000,
@@ -15613,7 +15613,7 @@
  "leboncoin:3311198935": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3311198935.htm",
-  "titre": "Maison 6 pièces 108 m²",
+  "titre": "Maison 6 pièces 108 m² Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 183600,
@@ -15653,7 +15653,7 @@
  "leboncoin:3311136863": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3311136863.htm",
-  "titre": "Maison 6 pièces 120 m²",
+  "titre": "Maison 6 pièces 120 m² Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 291030,
@@ -15693,7 +15693,7 @@
  "leboncoin:3310816520": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3310816520.htm",
-  "titre": "Maison 6 pièces 190 m²",
+  "titre": "Maison 6 pièces 190 m² Fay-aux-Loges",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 285000,
