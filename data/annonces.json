@@ -3185,7 +3185,7 @@
   "dpe": "D",
   "dpe_valeur": 225,
   "annee": 1965,
-  "description": "Maison 9 pièces 160 m² (pot. 180 m²) avec jardin — Orléans Barrière Saint-Marc<br>Emplacement privilégié à Orléans, au coeur du quartier très recherché de la Barrière Saint-Marc. Découvrez cette solide maison familiale de 1965 offrant 160 m² habitables (possibilité d'exploiter jusqu'à 180 m²), idéale pour une grande famille ou le télétravail.<br>Une distribution fonctionnelle sur deux niveaux principaux : <br>• Au niveau 1 : Un espace de vie traversant et lumineux orienté Ouest avec salon et cheminée, une salle à manger conviviale qui s'ouvre sur un balcon -terrasse, une cuisine aménagée, une première chambre, une salle de bains et un WC séparé. <br>• Au niveau 2 : Un espace nuit comprenant 4 grandes chambres ainsi qu'une salle d'eau traversante avec WC. Un grenier isolé complète ces niveaux pour offrir un espace de rangement supplémentaire.<br>Un rez de chaussée complet entièrement aménagé : Le rez-de-jardin bénéficie d'une vraie cuisine d'été avec accès direct au jardin, d'un bureau parfait pour le travail à domicile, d'un WC avec lave-mains, d'une chaufferie et d'un garage fermé.<br>Prestations et extérieurs : Parcelle agréable comprenant un jardin clos avec abri. Côté confort : menuiseries PVC double vitrage et chaudière gaz à condensation neuve.<br>Vie de quartier et transports : Situation idéale au calme avec toutes les commodités à proximité. Les déplacements sont facilités par la proximité immédiate des lignes de bus et de la station de tramway Jules Verne (Ligne A).<br>Informations complémentaires : • Prix de vente : 345 000 € FAI (honoraires à la charge du vendeur) • Diagnostic de Performance Énergétique : D | GES : D • Taxe foncière et estimations des coûts d'énergie disponibles sur demande.<br>Photos meublé par L'IA . Aucuns travaux à prévoir<br>Une opportunité rare d'acquérir une maison volumineuse et bien située à Orléans. Contactez-moi dès aujourd'hui pour planifier votre visite.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat D Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 3584.00 € et 4851.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAM INFINITY : Johan BLOT<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 489762179",
+  "description": "Maison 9 pièces 160 m² (pot. 180 m²) avec jardin — Orléans Barrière Saint-Marc<br>Emplacement privilégié à Orléans, au coeur du quartier très recherché de la Barrière Saint-Marc. Découvrez cette solide maison familiale de 1965 offrant 160 m² habitables (possibilité d'exploiter jusqu'à 180 m²), idéale pour une grande famille ou le télétravail.<br>Une distribution fonctionnelle sur deux niveaux principaux : <br>• Au niveau 1 : Un espace de vie traversant et lumineux orienté Ouest avec salon et cheminée, une salle à manger conviviale qui s'ouvre sur un balcon -terrasse, une cuisine aménagée, une première chambre, une salle de bains et un WC séparé. <br>• Au niveau 2 : Un espace nuit comprenant 4 grandes chambres ainsi qu'une salle d'eau traversante avec WC. Un grenier isolé complète ces niveaux pour offrir un espace de rangement supplémentaire.<br>Un rez de chaussée complet entièrement aménagé : Le rez-de-jardin bénéficie d'une vraie cuisine d'été avec accès direct au jardin, d'un bureau parfait pour le travail à domicile, d'un WC avec lave-mains, d'une chaufferie et d'un garage fermé.<br>Prestations et extérieurs : Parcelle agréable comprenant un jardin clos avec abri. Côté confort : menuiseries PVC double vitrage et chaudière gaz à condensation neuve.<br>Vie de quartier et transports : Situation idéale au calme avec toutes les commodités à proximité. Les déplacements sont facilités par la proximité immédiate des lignes de bus et de la station de tramway Jules Verne (Ligne A).<br>Informations complémentaires : • Prix de vente : 345 000 € FAI (honoraires à la charge du vendeur) • Diagnostic de Performance Énergétique : D | GES : D • Taxe foncière et estimations des coûts d'énergie disponibles sur demande.<br>Photos meublé par L'IA . Aucuns travaux à prévoir<br>Une opportunité rare d'acquérir une maison volumineuse et bien située à Orléans. Contactez-moi dès aujourd'hui pour planifier votre visite.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat D Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1728.00 € et 2700.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAM INFINITY : Johan BLOT<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 489762179",
   "photos": [
    "https://img.netty.immo/product/company58494kzv/VM5545/1791012553_VM5545_32_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5545/1791012552_VM5545_30_original.jpg",
@@ -3349,7 +3349,7 @@
   "titre": "ORLEANS Centre quartier Madeleine rare à la vente appartement Penthouse T4 avec patio intérieur et terrasse de 28 m2 dans petite copropriété",
   "ville": "Orléans",
   "cp": "45000",
-  "prix": 359000,
+  "prix": 349000,
   "surface": 90,
   "terrain": 38,
   "pieces": 4,
@@ -3379,7 +3379,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "2026-10-02T10:49:19.710Z",
-  "baisse_signalee": false,
+  "baisse_signalee": true,
   "lat": 47.89717996891222,
   "lon": 1.8780177334265593,
   "bbox": [
@@ -3395,6 +3395,10 @@
    {
     "date": "2026-11-15",
     "prix": 359000
+   },
+   {
+    "date": "2026-11-17",
+    "prix": 349000
    }
   ],
   "flou": "disk",
@@ -11783,16 +11787,16 @@
   "photos": [
    "https://d2m2j20yzublln.cloudfront.net/6/490693/090aee20-f5cb-41bb-8df4-1f34c8f3ea4e.jpg",
    "https://d2m2j20yzublln.cloudfront.net/6/490693/b0d481ee-1d51-49cf-ab78-2420fee61b38.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/ef315e94-009e-4360-a984-58fefa05e50c.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/1b2fbe31-e81a-4ac2-913f-3f3d01caaae2.jpg",
    "https://d2m2j20yzublln.cloudfront.net/6/490693/9ba9ed06-2856-430d-80ed-3ba5a188e8d5.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/eb66a632-39af-40bb-bcfd-e7e2937bf0e4.jpg",
    "https://d2m2j20yzublln.cloudfront.net/6/490693/863db626-fe3c-4227-af77-48c826bb7a29.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/f1fbce93-17e1-4f04-b28c-d9f2480c286f.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/dea2090a-bf9a-449a-aed1-7a6c942c0857.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/e4222cb4-9128-46c0-9e68-31dbedc8de42.jpg",
    "https://d2m2j20yzublln.cloudfront.net/6/490693/8264901c-2f78-45da-aa9a-317d898b6aa5.jpg",
-   "https://d2m2j20yzublln.cloudfront.net/6/490693/e6c27c5d-b8b6-49ca-ba83-e7e1b4050e1d.jpg"
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/ef315e94-009e-4360-a984-58fefa05e50c.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/f1fbce93-17e1-4f04-b28c-d9f2480c286f.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/1b2fbe31-e81a-4ac2-913f-3f3d01caaae2.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/dea2090a-bf9a-449a-aed1-7a6c942c0857.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/e6c27c5d-b8b6-49ca-ba83-e7e1b4050e1d.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/4a589394-c5c0-47e8-8b2a-bca7d8453720.jpg",
+   "https://d2m2j20yzublln.cloudfront.net/6/490693/af6224bc-8df9-4318-b142-ab0e3bef8f7c.jpg"
   ],
   "vendeur": "agency",
   "type_annonce": "buy",
@@ -12822,7 +12826,7 @@
   "annee": 1900,
   "description": "Exclusivité ! Corps de ferme d'environ 233 m2 habitables qui se compose, au rez-de-chaussée, d'une entrée, d'un grand séjour-salon cathédrale d'environ 70 m2 baigné de lumière avec deux cheminées à foyer ouvert et un accès à la terrasse, d'une cuisine aménagée, d'un cellier/buanderie, d'une cave, d'une grande chambre cathédrale d'environ 25 m2, d'un bureau, WC séparés avec placards et lave-mains, d'un couloir, WC séparés, d'une salle de bains avec double vasque et d'une chambre d'environ 20 m2.<br>  <br> À l'étage, un grand dégagement avec placards, WC séparés, salle de bains et trois grandes chambres, dont une avec une terrasse privative.<br>  <br> La maison comprend un premier garage attenant d'environ 24 m2 avec une salle d'eau et un WC, un deuxième grand garage d'environ 110 m2 et une dépendance en bois d'environ 40 m2 avec garage.<br>  <br> Jardin magnifiquement arboré et paysagé d'environ 11 353 m2 comprenant une prairie, des abris pour chevaux, un puits, un bûcher et une pièce d'eau d'environ 400 m2.<br>  <br> Les atouts de cette maison : le charme de l'ancien, de beaux volumes, des menuiseries en double vitrage, des matériaux de très bonne qualité et un grand terrain.<br>  <br> Parfaitement entretenue, la maison dispose d'un cadre de vie confortable et fonctionnel.<br>  <br> Située à environ 25 minutes d'Orléans, 25 minutes de Montargis et 1h30 du sud de Paris, Vitry-aux-Loges est une commune dynamique et agréable à vivre, très appréciée pour sa qualité de vie.<br>  <br> C'est une commune recherchée, idéale pour concilier cadre de vie paisible et commodités.<br>",
   "photos": [
-   "https://espimmoloiret.staticlbi.com/original/images/biens/1/6414c22735b79ab62ca7885120684bc0/photo_1dfcbb34f68794e0eb71940b9278cbbc.jpg",
+   "https://espimmoloiret.staticlbi.com/original/images/biens/1/6414c22735b79ab62ca7885120684bc0/photo_461d3e3d4f569b620efb400ad6d816c9.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/6414c22735b79ab62ca7885120684bc0/photo_298b399b8177ef3884676bb9e1655907.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/6414c22735b79ab62ca7885120684bc0/photo_6f295f339fcc0e8707e4b8b60ef88ccc.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/6414c22735b79ab62ca7885120684bc0/photo_b633286edee3c9505ac7ecee50bdff91.jpg",
@@ -13812,7 +13816,7 @@
   "annee": 1979,
   "description": "Exclusivité ! Votre Agence Espace Immobilier vous présente une maison d'architecte d'environ 186 m2 proche des bords de Loire, comprenant, au rez-de-chaussée, une entrée, un spacieux séjour salon avec une cheminée insert, une cuisine aménagée, un cellier, un dégagement avec placards, un WC séparé, un grand bureau/véranda et deux chambres, dont une avec salle de bains.<br> À l'étage, un palier dessert une salle d'eau, un WC séparé, un bureau et trois chambres, dont une avec une salle d'eau et un balcon privatif.<br> La maison comprend un sous-sol total avec une partie cuisine d'été, buanderie, chaufferie, cave, atelier, cave et garage.<br> Garage et bûcher complètent ce bien.<br> Jardin d'environ 1 149 m2 clôturé avec deux terrasses.<br> Située dans une impasse d'un quartier très recherché, proche des bords de Loire.<br>",
   "photos": [
-   "https://espimmoloiret.staticlbi.com/original/images/biens/1/ea0d1ed0c8f3a5da80af07b362784415/photo_e982d6189845d0c34660bfe536db0b24.jpg",
+   "https://espimmoloiret.staticlbi.com/original/images/biens/1/ea0d1ed0c8f3a5da80af07b362784415/photo_6e3a3e6e20c388e8ebd217de6d2ff097.jpg",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/ea0d1ed0c8f3a5da80af07b362784415/photo_da3c849271fedf767f8fb3ab6b38bc0d.png",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/ea0d1ed0c8f3a5da80af07b362784415/photo_093d94a524cd923a272e14d140897a71.png",
    "https://espimmoloiret.staticlbi.com/original/images/biens/1/ea0d1ed0c8f3a5da80af07b362784415/photo_aed9b8858214e7717afbb6f3a5df2f20.png",
