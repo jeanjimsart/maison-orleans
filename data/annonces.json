@@ -6467,7 +6467,7 @@
   "titre": "Maison familiale quartier Château Gaillard à Orléans 7 pièces 113 m²",
   "ville": "Orléans",
   "cp": "45000",
-  "prix": 253920,
+  "prix": 238600,
   "surface": 113,
   "terrain": 315,
   "pieces": 7,
@@ -6497,7 +6497,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "1970-01-01T00:00:00.000Z",
-  "baisse_signalee": false,
+  "baisse_signalee": true,
   "lat": 47.91026770101501,
   "lon": 1.9215719823889261,
   "bbox": [
@@ -6513,6 +6513,10 @@
    {
     "date": "2026-11-15",
     "prix": 253920
+   },
+   {
+    "date": "2026-11-19",
+    "prix": 238600
    }
   ],
   "flou": "disk",
@@ -7128,12 +7132,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c405faeda547aaacb1156777d48cef6d/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -16462,7 +16466,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 7 pièces · 140 m² · Terrain : 1014m² · 2 393 €/m² · Pro",
+  "description": "Maison · 7 pièces · 140 m² · Terrain : 1014m² (2 393 €/m²)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/38/02/6b/38026b7a7e90cdd796ef9d84cf4a8caf9ba2519c.jpg?rule=ad-image"
   ],
@@ -16502,11 +16506,11 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 130 m² · Terrain : 1132m² · 2 462 €/m²",
+  "description": "Maison · 6 pièces · 130 m² · Terrain : 1132m² (2 462 €/m²)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/2c/9c/a1/2c9ca1ba5196f0eba4bb32ae34b90ac8d4549de9.jpg?rule=ad-image"
   ],
-  "vendeur": "agency",
+  "vendeur": "particulier",
   "type_annonce": "buy",
   "neuf": false,
   "garage": null,
@@ -16542,7 +16546,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 125 m² · Terrain : 847m² · 2 096 €/m² · Pro",
+  "description": "Maison · 6 pièces · 125 m² · Terrain : 847m² (2 096 €/m²)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/f0/00/fd/f000fd44db7cac4e1e9006c823d7a8abe757b7d1.jpg?rule=ad-image"
   ],
