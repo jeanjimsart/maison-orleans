@@ -7132,12 +7132,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/c7550d433534441945a59453e6526d30/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/740bb009e20a6824aa26157c058836e6/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -7558,7 +7558,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-19",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -10132,7 +10132,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-19",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -16510,7 +16510,7 @@
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/2c/9c/a1/2c9ca1ba5196f0eba4bb32ae34b90ac8d4549de9.jpg?rule=ad-image"
   ],
-  "vendeur": "particulier",
+  "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
   "garage": null,
@@ -16569,6 +16569,66 @@
    {
     "date": "2026-11-19",
     "prix": 262000
+   }
+  ]
+ },
+ "bienici:iad-france-2163393": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/iad-france-2163393",
+  "titre": "Vente Maison/villa 5 pièces",
+  "ville": "Orléans",
+  "cp": "45000",
+  "prix": 274000,
+  "surface": 130,
+  "terrain": 513,
+  "pieces": 5,
+  "chambres": 3,
+  "dpe": "D",
+  "dpe_valeur": 236,
+  "annee": 1985,
+  "description": "iad France - Anais Rousseau vous propose: À VENDRE – Maison individuelle d’environ 130 m² sur un terrain arboré de 513m².<br>Venez découvrir cette charmante maison individuelle d’environ 130 m², idéale pour une famille à la recherche d’espace, de confort et de tranquillité.<br>Au rez-de-chaussée, vous serez séduit par une entrée, une cuisine ouverte aménagée et équipée. Le salon séjour est agrémenté d’une cheminée à insert qui apporte une touche de confort supplémentaire. Deux chambres se trouvent également à ce niveau, ainsi qu’une salle de bain fonctionnelle et des toilettes indépendantes.<br>À l’étage, une grande mezzanine offre un bel espace polyvalent, idéal pour un coin bureau, une salle de jeux ou une quatrième chambre. Une chambre supplémentaire avec placard complète ce niveau, avec en plus une pièce attenante offrant la possibilité d’aménager un dressing ou un espace de rangement selon vos besoins. <br>Cette maison offre un cadre de vie paisible tout en profitant d’une situation géographique idéale, à proximité d’Orléans et de Saran.<br>Vous apprécierez également la proximité des commerces, des écoles, ainsi que des transports en commun (arrêt de bus à quelques minutes à pied).<br>Une visite s’impose ! <br>Contactez moi pour plus d'informations.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Anais Rousseau mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Orléans sous le numéro 910256296, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+  "photos": [
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c138265288bc81d72648a40b.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c130139952509dc291b0ad15.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c192a6a464b7a70e5154f290.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c11ef331d1b2836aded5ceac.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c195391f912917d46c7a44c4.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f378c11a0bdb197c252661b0ec94.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f37a4ab4f437bfbe8106b10430c2.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f35365c89918c43d4c3c73f57343.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f35365cf48d763a43fb766b35552.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f35365c17abcb6c44eb85c740fe4.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f353663bb86766cf4f69e9f55f56.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/19/01a1f3536632c5c59b607be8e5003ecb.jpg"
+  ],
+  "vendeur": "mandatary",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": false,
+  "jardin": true,
+  "cave": false,
+  "cheminee": false,
+  "terrasse": true,
+  "publication": "2026-11-19T13:59:18.455Z",
+  "baisse_signalee": false,
+  "lat": 47.927719802302974,
+  "lon": 1.8903151964776426,
+  "bbox": [
+   1.8869637168179265,
+   47.925473981421966,
+   1.8936666761373586,
+   47.92996562318398
+  ],
+  "flou": "disk",
+  "flou_rayon": 250,
+  "premier_vu": "2026-11-19",
+  "vu_le": "2026-11-19",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-19",
+    "prix": 274000
    }
   ]
  }
