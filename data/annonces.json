@@ -517,8 +517,8 @@
    47.92134286843099
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-18",
-  "active": false,
+  "vu_le": "2026-11-20",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -1134,17 +1134,18 @@
   "dpe": "D",
   "dpe_valeur": 188,
   "annee": 1955,
-  "description": "iad France - Mélanie Cassoli vous propose: MAISON 95M² - SOUS SOL - TRÈS BON ÉTAT - LUMINEUX<br>Une maison qui vous permet de poser vos valises sans travaux, située dans un cadre de vie agréable et disposant des commodités et transports. <br>Avec ses 95 m² habitables et son terrain de presque 500m², elle séduit par son équilibre entre confort intérieur et espace extérieur.<br>L'agencement intérieur se révèle fonctionnel et bien pensé. <br>Le séjour, lumineux grâce à la double exposition, constitue le cOEur de la maison. La cuisine équipée et aménagée offre un espace pratique et bien délimité.<br>La maison dispose de 3 chambres et une grande mezzanine accueillant espace bureau ou salle de jeux.<br>Une salle de bains avec wc et une salle d'eau avec wc.<br>Le jardin, atout de ce bien, profite lui aussi de l'ensoleillement est-ouest et offre un espace vert appréciable. <br>Un sous-sol complète l'ensemble, apportant une solution de stationnement et de rangement supplémentaire. <br>Prenez rendez-vous pour visiter ce bien et découvrir par vous-même le potentiel qu'il offre.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Mélanie Cassoli mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ORLEANS sous le numéro 832687008, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+  "description": "iad France - Mélanie Cassoli vous propose: MAISON 95M² - sur sous-sol - Pas de travaux<br>Une maison qui vous permet de poser vos valises sans travaux, située dans un cadre de vie agréable et disposant des commodités et transports. <br>Avec ses 95 m² habitables et son terrain de presque 500m², elle séduit par son équilibre entre confort intérieur et espace extérieur.<br>L'agencement intérieur se révèle fonctionnel et bien pensé. <br>Le séjour, lumineux grâce à la double exposition, constitue le cOEur de la maison. La cuisine équipée et aménagée offre un espace pratique et bien délimité.<br>La maison dispose de 3 chambres et une grande mezzanine accueillant espace bureau ou salle de jeux.<br>Une salle de bains avec wc et une salle d'eau avec wc.<br>Le jardin, atout de ce bien, profite lui aussi de l'ensoleillement est-ouest et offre un espace vert appréciable. <br>Un sous-sol complète l'ensemble, apportant une solution de stationnement et de rangement supplémentaire. <br>Prenez rendez-vous pour visiter ce bien et découvrir par vous-même le potentiel qu'il offre.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Mélanie Cassoli mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ORLEANS sous le numéro 832687008, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
   "photos": [
-   "https://images.playiad.com/property/broadcast/2026/07/02/019f22dc0651b3f4ada63cdebe207385.jpg",
-   "https://images.playiad.com/property/broadcast/2026/07/02/019f22d96311379098eafbd00f542aab.jpg",
-   "https://images.playiad.com/property/broadcast/2026/07/02/019f22d962fc16abd6f0979b2f6fd897.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/20/01a1f84531d97b8d71d07653262ed325.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/20/01a1f84682c7bde267f58fdcfe913d3f.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/20/01a1f84682aa0ad914e9255af7b58aaa.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/20/01a1f846827c822588c118daf1967a77.jpg",
    "https://images.playiad.com/property/broadcast/2026/07/02/019f22d963398717c46030250e99b335.jpg",
    "https://images.playiad.com/property/broadcast/2026/07/02/019f22dd26a66c882ee7c74582ce6210.jpg",
-   "https://images.playiad.com/property/broadcast/2026/07/02/019f22dd26bfd38764f073d371b25da5.jpg",
    "https://images.playiad.com/property/broadcast/2026/07/02/019f22ded5d9039acecca37a837bad56.jpg",
    "https://images.playiad.com/property/broadcast/2026/07/02/019f22df6b1c771b06e3a731efbd2390.jpg",
-   "https://images.playiad.com/property/broadcast/2026/07/02/019f22dc05caa1e114451bfe1b561c5f.jpg"
+   "https://images.playiad.com/property/broadcast/2026/07/02/019f22dc05caa1e114451bfe1b561c5f.jpg",
+   "https://images.playiad.com/property/broadcast/2026/07/02/019f22dc0651b3f4ada63cdebe207385.jpg"
   ],
   "vendeur": "mandatary",
   "type_annonce": "buy",
@@ -1578,13 +1579,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.916263235844426,
-  "lon": 1.9152733792118333,
+  "lat": 47.91630223584443,
+  "lon": 1.9152393795166358,
   "bbox": [
-   1.9146032103892454,
-   47.91581407689567,
-   1.9159435480344211,
-   47.91671239479318
+   1.9145692101889058,
+   47.91585307689567,
+   1.9159095488443658,
+   47.91675139479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-20",
@@ -2017,7 +2018,7 @@
  "bienici:ag451648-556557356": {
   "source": "bienici",
   "url": "https://www.bienici.com/annonce/ag451648-556557356",
-  "titre": "Maison récente de 2019 - 5 pièces - sous garantie décennale",
+  "titre": "Orléans Saint-Marceau - Maison familiale récente de 2019",
   "ville": "Orléans",
   "cp": "45100",
   "prix": 325000,
@@ -2051,13 +2052,13 @@
   "jardin": true,
   "publication": "2026-10-28T18:45:21.703Z",
   "baisse_signalee": true,
-  "lat": 47.88409347371085,
-  "lon": 1.8843925323160484,
+  "lat": 47.88489962997032,
+  "lon": 1.8849041242905396,
   "bbox": [
-   1.8830530306832551,
-   47.88319515320278,
-   1.8857320339488417,
-   47.88499179421892
+   1.8835646111761215,
+   47.88400130946224,
+   1.8862436374049576,
+   47.8857979504784
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-20",
@@ -7136,12 +7137,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3db37376f41569a950afd29d0a6b8e29/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0d00c957e6851483c9dd05df8450c276/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -12455,13 +12456,13 @@
   "jardin": true,
   "publication": "2026-09-29T18:58:33.795Z",
   "baisse_signalee": false,
-  "lat": 47.86975475233624,
-  "lon": 2.1108337364681784,
+  "lat": 47.86977375233627,
+  "lon": 2.110857735848585,
   "bbox": [
-   2.104138545451835,
-   47.865263045356976,
-   2.1175289274845217,
-   47.87424645931551
+   2.1041625423780106,
+   47.86528204535696,
+   2.1175529293191593,
+   47.87426545931558
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-20",
@@ -16996,7 +16997,7 @@
  "leboncoin:3313133131": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313133131.htm",
-  "titre": "Maison 7 pièces 144 m²",
+  "titre": "Maison 7 pièces 144 m² Traînou",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 345977,
@@ -17008,7 +17009,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/a0/0e/1d/a00e1d1b4a5c059bd20dc1ce12c9dcde10cf4da8.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
@@ -17034,7 +17037,7 @@
  "leboncoin:3313133122": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313133122.htm",
-  "titre": "Maison 6 pièces 110 m²",
+  "titre": "Maison 6 pièces 110 m² Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 333040,
@@ -17046,7 +17049,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/64/bb/bb/64bbbbc7c464694dbc2a4d3d33fa47468262d7dd.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
@@ -17072,7 +17077,7 @@
  "leboncoin:3313122754": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313122754.htm",
-  "titre": "Maison 7 pièces 151 m²",
+  "titre": "Maison 7 pièces 151 m² Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 283500,
@@ -17084,7 +17089,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/21/9b/e2/219be26cff18ec0e29fd6a2186766f00f60d59a4.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
@@ -17110,7 +17117,7 @@
  "leboncoin:3210684219": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3210684219.htm",
-  "titre": "Maison 6 pièces 171 m²",
+  "titre": "Maison 6 pièces 171 m² Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 294000,
@@ -17122,7 +17129,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/d8/2f/9f/d82f9f527c10328b6c1f2d00faeb1c809605f9ba.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
@@ -17148,7 +17157,7 @@
  "leboncoin:3312912342": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3312912342.htm",
-  "titre": "Maison 8 pièces 180 m²",
+  "titre": "Maison 8 pièces 180 m² Jargeau",
   "ville": "Jargeau",
   "cp": "45150",
   "prix": 280000,
@@ -17160,7 +17169,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/4b/f9/7f/4bf97f512697d55e601b95471797ddd79e3a10ed.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
@@ -17180,6 +17191,106 @@
    {
     "date": "2026-11-20",
     "prix": 280000
+   }
+  ]
+ },
+ "bienici:iad-france-2163066": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/iad-france-2163066",
+  "titre": "Vente Maison de ville 7 pièces",
+  "ville": "Orléans",
+  "cp": "45100",
+  "prix": 293000,
+  "surface": 135.54,
+  "terrain": 542,
+  "pieces": 7,
+  "chambres": 5,
+  "dpe": "C",
+  "dpe_valeur": 171,
+  "annee": 1932,
+  "description": "iad France - Enguerrand Kas vous propose: Exclusivité – Maison de ville de 136 m² habitables au cOEur d’Orléans Sud<br>Découvrez cette maison de ville des années 30, construite sur un terrain de 542 m².<br>Bâtie sur un sous-sol aménagé, répartie sur trois niveaux offrant de beaux espaces de vie modulables, idéals pour une vie de famille.<br>Au sous-sol, vous bénéficierez d’une cuisine fonctionnelle, d’un cellier, d’une salle à manger chaleureuse, ainsi que d’une salle d’eau avec WC faisant également office de buanderie.<br>Au rez-de-chaussée, vous découvrirez un salon lumineux, deux chambres, une salle de bain avec WC, ces pièces modulables offrant de nombreuses possibilités d’aménagement.<br>À l’étage, trois chambres supplémentaires ainsi qu’un WC indépendant complètent ce niveau.<br>Côté extérieur, vous bénéficierez d’une terrasse agréable et d’un jardin, offrant un bel espace de vie en plein air, ainsi que plusieurs places de stationnement.<br>Située à seulement 3 km du centre d’Orléans et à 4 km de l’autoroute, cette maison bénéficie d’un accès rapide au centre commercial Place d’Arc, au Jardin des Plantes, aux écoles, aux supermarchés, et se trouve à seulement 600 m des arrêts de bus.<br>Ce bien représente une belle opportunité à ne pas manquer. N’hésitez pas à me contacter pour toute question ou pour organiser une visite.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Enguerrand Kas mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de Orléans sous le numéro 932708233, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+  "photos": [
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff094e8e6016400fece42df9aaa.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efef83d3783c3bf12872c391f4f3.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff00c6072d1a38fed2c56c59eab.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efeff0eac5b20f67c2155beda879.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efefeddb32269ab3b4466f321304.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efefef6edeb0465700bf10b8ebec.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efefecc2369d1440c1e43b8ddc99.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1efefec60c08d36cfd1d078385fff.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff02d9dd356e4bc6509516bac25.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff041aa0c28e1708b3cc9b4b481.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff073bcbc53393b7d3bfc61cce8.jpg",
+   "https://images.playiad.com/property/broadcast/2026/11/18/01a1eff08e03a491e810302ffdf8fb66.jpg"
+  ],
+  "vendeur": "mandatary",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": false,
+  "jardin": true,
+  "cave": false,
+  "cheminee": true,
+  "terrasse": true,
+  "publication": "2026-11-20T10:55:14.155Z",
+  "baisse_signalee": false,
+  "lat": 47.892450431404484,
+  "lon": 1.8915137520326617,
+  "bbox": [
+   1.8908438940574415,
+   47.89200127245624,
+   1.892183610007882,
+   47.89289959035273
+  ],
+  "flou": "disk",
+  "flou_rayon": 50,
+  "premier_vu": "2026-11-20",
+  "vu_le": "2026-11-20",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-20",
+    "prix": 293000
+   }
+  ]
+ },
+ "pap:465700663": {
+  "source": "pap",
+  "url": "https://www.pap.fr/annonces/-r465700663",
+  "titre": "Maison 115 m² Orléans",
+  "ville": "Orléans",
+  "cp": null,
+  "prix": 314000,
+  "surface": 115,
+  "terrain": null,
+  "pieces": null,
+  "chambres": null,
+  "dpe": null,
+  "dpe_valeur": null,
+  "annee": null,
+  "description": "",
+  "photos": [
+   "https://cdn.pap.fr/photos/pap/81/db/81dbd718013d3eb93511f948663ea313/8-p2.jpg"
+  ],
+  "vendeur": "particulier",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": null,
+  "piscine": null,
+  "jardin": null,
+  "publication": null,
+  "baisse_signalee": false,
+  "lat": null,
+  "lon": null,
+  "bbox": null,
+  "flou": null,
+  "premier_vu": "2026-11-20",
+  "vu_le": "2026-11-20",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-20",
+    "prix": 314000
    }
   ]
  }
