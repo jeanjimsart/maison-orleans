@@ -5563,8 +5563,8 @@
    47.93175736695499
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-17",
-  "active": false,
+  "vu_le": "2026-11-21",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7137,12 +7137,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3b607fff0d5729bec0be3b01bbb98aeb/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/87c8a471eb64529f6804234437e4801e/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -10771,7 +10771,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-21",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -17579,7 +17579,7 @@
  "leboncoin:3313932217": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313932217.htm",
-  "titre": "Maison 7 pièces 144 m²",
+  "titre": "Maison 7 pièces 144 m² - Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 334987,
@@ -17617,7 +17617,7 @@
  "leboncoin:3313914648": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313914648.htm",
-  "titre": "Maison de plain-pied 6 pièces 140 m²",
+  "titre": "Maison 6 pièces 140 m² - Châteauneuf-sur-Loire",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 267750,
@@ -17655,7 +17655,7 @@
  "leboncoin:3313707556": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3313707556.htm",
-  "titre": "Maison 4 pièces 106 m²",
+  "titre": "Maison 4 pièces 106 m² - Traînou",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 277100,
@@ -17725,6 +17725,63 @@
    {
     "date": "2026-11-21",
     "prix": 1
+   }
+  ]
+ },
+ "bienici:netty-company56118jmd-house-1212": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/netty-company56118jmd-house-1212",
+  "titre": "Maison à vendre Orléans",
+  "ville": "Orléans",
+  "cp": "45000",
+  "prix": 219900,
+  "surface": 84.53,
+  "terrain": 108,
+  "pieces": 3,
+  "chambres": 2,
+  "dpe": "D",
+  "dpe_valeur": 216,
+  "annee": null,
+  "description": "À Orléans à proximité, venez découvrir cette maison mitoyenne de 3 pièces, rénovée en 2016. Elle offre environ 84 m² habitables avec un espace extérieur et 2 places de stationnements.<br>Elle se compose des espaces suivants : <br>Au rez-de-chaussée :<br>- Une entrée avec WC indépendant,<br>- Un salon et un espace salle à manger avec cuisine ouverte équipée,<br>- Un espace cellier / buanderie,<br>À l'étage :<br>- Deux chambres avec placard,<br>- Une salle d'eau,<br>- Deux WC, dont un séparé,<br>À l'extérieur, la maison dispose d'une terrasse, d'une entrée couverte et de deux places de stationnement.<br>L'intérieur est en bon état. La maison est équipée de fenêtres en PVC double vitrage et d'un chauffage électrique individuel. Le DPE est classé D.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat B Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1700.00 € et 2340.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. Ce bien vous est proposé par un agent commercial (Entreprise individuelle). <br>Votre conseiller L'ADN IMMO : Clément LECAS<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 894503911",
+  "photos": [
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584851_VM1212_21_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584801_VM1212_19_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584641_VM1212_12_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584781_VM1212_18_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584621_VM1212_11_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584671_VM1212_13_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584761_VM1212_17_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584601_VM1212_10_original.jpg",
+   "https://img.netty.immo/product/company56118jmd/VM1212/17952584731_VM1212_16_original.jpg"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": false,
+  "jardin": true,
+  "cave": false,
+  "cheminee": null,
+  "terrasse": null,
+  "publication": "2026-11-21T12:46:59.349Z",
+  "baisse_signalee": false,
+  "lat": 47.902733605,
+  "lon": 1.908606557,
+  "bbox": [
+   1.875757772,
+   47.813280211,
+   1.948711393,
+   47.933538903
+  ],
+  "flou": "cityOrArrondissement",
+  "flou_rayon": null,
+  "premier_vu": "2026-11-21",
+  "vu_le": "2026-11-21",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-21",
+    "prix": 219900
    }
   ]
  }
