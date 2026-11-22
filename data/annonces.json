@@ -1579,13 +1579,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.91630223584443,
-  "lon": 1.9152393795166358,
+  "lat": 47.916263235844426,
+  "lon": 1.9152733792118333,
   "bbox": [
-   1.9145692101889058,
-   47.91585307689567,
-   1.9159095488443658,
-   47.91675139479318
+   1.9146032103892454,
+   47.91581407689567,
+   1.9159435480344211,
+   47.91671239479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-22",
@@ -7137,12 +7137,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/2faf6b60134da788073597d4ca9115e7/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -17788,7 +17788,7 @@
  "leboncoin:3314125457": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3314125457.htm",
-  "titre": "Maison 6 pièces 128 m² à Vitry-aux-Loges",
+  "titre": "Maison · 6 pièces · 128 m²",
   "ville": "Vitry-aux-Loges",
   "cp": "45530",
   "prix": 253000,
@@ -17800,7 +17800,9 @@
   "dpe_valeur": null,
   "annee": null,
   "description": "253 000 € 1 977 €/m² Pro Maison · 6 pièces · 128 m² Terrain : 987m² Vitry-aux-Loges 45530",
-  "photos": [],
+  "photos": [
+   "https://img.leboncoin.fr/api/v1/lbcpb1/images/18/95/20/1895208b5b74135634db0fe3276c35ddd5899295.jpg?rule=ad-image"
+  ],
   "vendeur": "agency",
   "type_annonce": "buy",
   "neuf": false,
