@@ -5564,7 +5564,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-22",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7137,12 +7137,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/3ea95847bd90a77069095704cbe32a89/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/cbd05ec3a00e5e169dcc226765d9fb41/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -11431,7 +11431,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-22",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -12630,8 +12630,8 @@
    47.87364724343512
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-21",
-  "active": false,
+  "vu_le": "2026-11-22",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -17788,7 +17788,7 @@
  "leboncoin:3314125457": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3314125457.htm",
-  "titre": "Maison · 6 pièces · 128 m²",
+  "titre": "Maison 6 pièces 128 m² Vitry-aux-Loges",
   "ville": "Vitry-aux-Loges",
   "cp": "45530",
   "prix": 253000,
@@ -17822,6 +17822,66 @@
    {
     "date": "2026-11-22",
     "prix": 253000
+   }
+  ]
+ },
+ "bienici:ag756931-561986660": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/ag756931-561986660",
+  "titre": "Demeure",
+  "ville": "Traînou",
+  "cp": "45470",
+  "prix": 300000,
+  "surface": 190,
+  "terrain": 2600,
+  "pieces": 9,
+  "chambres": 5,
+  "dpe": "F",
+  "dpe_valeur": 321,
+  "annee": 1895,
+  "description": "Traînou / Centre-Val de Loire - demeure de caractère 190 m² et ses dépendances - terrain 2600 m² - 5 chambres. A 1 h 30 de Paris, idéalement située au calme dans la verdure dans un environnement privilégié à 20 km d'Orléans, belle demeure bourgeoise de caractère du XIX siècle exposée plein sud agrémentée d'un jardin clos arboré de 2 600 m² comprenant sur 3 niveaux avec boiseries, cheminées et tomettes et de beaux volumes (hauteur sous-plafond : 3,10 m) : entrée, séjour, salle à manger, bureau, cuisine, office. En étage, petit salon, 5 chambres, salles de bains, salle d'eau, dressing. Buanderie. Cellier. Appentis. Dépendances. Cave voûtée. Garage. Belles prestations. Charme. Authenticité. Calme. Ensoleillée. Sans vis-à-vis. Rare. A rénover. Exclusivité Amour Immobilier. Pour plus d'informations ou pour organiser une visite, merci de contacter Laurent BOURGNINAUD au <span class=\"importDescriptionDecorator\" data-type=\"phone\">06 13 60 57 72</span> ou votre interlocuteur habituel chez AMOUR IMMOBILIER.",
+  "photos": [
+   "https://photos.ubiflow.net/756931/561986660/photos/1.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/2.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/3.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/4.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/5.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/6.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/7.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/8.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/9.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/10.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/11.jpg?INSOON_EB_5512801818_20261122173325",
+   "https://photos.ubiflow.net/756931/561986660/photos/12.jpg?INSOON_EB_5512801818_20261122173325"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": true,
+  "piscine": false,
+  "jardin": true,
+  "cave": true,
+  "cheminee": true,
+  "terrasse": null,
+  "publication": "2026-11-22T17:18:37.180Z",
+  "baisse_signalee": false,
+  "lat": 47.97326331038703,
+  "lon": 2.1011989099471977,
+  "bbox": [
+   2.0995216186572585,
+   47.972140408108004,
+   2.102876201237137,
+   47.97438621266606
+  ],
+  "flou": "disk",
+  "flou_rayon": 125,
+  "premier_vu": "2026-11-22",
+  "vu_le": "2026-11-22",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-22",
+    "prix": 300000
    }
   ]
  }
