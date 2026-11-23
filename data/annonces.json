@@ -1579,13 +1579,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.916263235844426,
-  "lon": 1.9152733792118333,
+  "lat": 47.91630223584443,
+  "lon": 1.9152393795166358,
   "bbox": [
-   1.9146032103892454,
-   47.91581407689567,
-   1.9159435480344211,
-   47.91671239479318
+   1.9145692101889058,
+   47.91585307689567,
+   1.9159095488443658,
+   47.91675139479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-23",
@@ -5849,13 +5849,13 @@
   "jardin": null,
   "publication": "1970-01-01T00:00:00.000Z",
   "baisse_signalee": false,
-  "lat": 47.902278584152775,
-  "lon": 1.902538082139016,
+  "lat": 47.90231558415278,
+  "lon": 1.9025520851468007,
   "bbox": [
-   1.895838124882083,
-   47.89778687709754,
-   1.9092380393959492,
-   47.90677029120801
+   1.895852123100981,
+   47.89782387709753,
+   1.9092520471926204,
+   47.90680729120803
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-23",
@@ -7137,12 +7137,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/7adaa874d34025d978d5eeb2360244d6/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -17899,7 +17899,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 5 pièces · 134 m² · Terrain : 1014m² · 2 415 €/m² · Pro",
+  "description": "Maison · 5 pièces · 134 m² · Terrain : 1014m² · 2 415 €/m²",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/9a/3b/06/9a3b06ffc9692db8264a8baf70a1ab0273b3a78a.jpg?rule=ad-image"
   ],
@@ -17939,7 +17939,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 5 pièces · 113 m² · 2 107 €/m² · Pro",
+  "description": "Maison · 5 pièces · 113 m² · 2 107 €/m²",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/08/a9/ef/08a9efab3bd3542dddcde78460674876a2fb9ebb.jpg?rule=ad-image"
   ],
@@ -17962,6 +17962,44 @@
    {
     "date": "2026-11-23",
     "prix": 238044
+   }
+  ]
+ },
+ "pap:465103538": {
+  "source": "pap",
+  "url": "https://www.pap.fr/annonces/-r465103538",
+  "titre": "Vente maison Orléans 100 m²",
+  "ville": "Orléans",
+  "cp": null,
+  "prix": 219900,
+  "surface": 100,
+  "terrain": null,
+  "pieces": null,
+  "chambres": null,
+  "dpe": null,
+  "dpe_valeur": null,
+  "annee": null,
+  "description": "Vente maison Orléans (45) 100 m² 219.900 EUR",
+  "photos": [],
+  "vendeur": "particulier",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": null,
+  "piscine": null,
+  "jardin": null,
+  "publication": null,
+  "baisse_signalee": false,
+  "lat": null,
+  "lon": null,
+  "bbox": null,
+  "flou": null,
+  "premier_vu": "2026-11-23",
+  "vu_le": "2026-11-23",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-23",
+    "prix": 219900
    }
   ]
  }
