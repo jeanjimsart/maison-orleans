@@ -2102,7 +2102,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "2026-10-24T12:21:14.656Z",
-  "baisse_signalee": true,
+  "baisse_signalee": false,
   "lat": 47.87400443793624,
   "lon": 1.9259099541417295,
   "bbox": [
@@ -2262,9 +2262,8 @@
   "annee": 1951,
   "description": "Découvrez cette maison ancienne entièrement rénovée , libre et prête à vous accueillir pour écrire une nouvelle page de votre vie !<br>Imaginez-vous vivre dans une maison où la lumière naturelle inonde les pièces grâce aux hautes fenêtres et aux baies vitrées. Les grands volumes offrent un espace de vie généreux, parfait pour accueillir vos proches ou aménager des espaces dédiés à vos passions. Le jardin ou la cour intérieure, selon l'orientation, est un véritable havre de paix pour des soirées d'été sous les étoiles ou des moments de détente en famille.<br>Cette maison ancienne a été rénovée avec soin pour allier le charme de l'ancien au confort du moderne. Les installations électriques et de plomberie sont aux normes, et l'isolation thermique et phonique a été optimisée pour un cadre de vie agréable en toutes saisons. Les cuisines et salles de bain, repensées avec des matériaux nobles comme le carrelage ancien ou les plans de travail en pierre naturelle, apportent une touche d'authenticité tout en assurant durabilité et élégance.<br>Située dans un quartier prisé, cette maison ancienne offre un cadre de vie idyllique, calme et préservé, tout en étant proche des commodités. Un investissement judicieux dans un bien rare et recherché, qui prend de la valeur avec le temps et séduit une clientèle exigeante en quête d'authenticité.<br>Que vous souhaitiez en faire votre résidence principale, une résidence secondaire ou un projet locatif, cette maison ancienne saura répondre à vos attentes. Son potentiel locatif est un atout majeur dans un marché où la demande pour des logements atypiques et chargés d'histoire ne cesse de croître.<br>Faites confiance à TEAM INFINITY pour vous accompagner dans cette aventure immobilière. Nos experts locaux vous guideront vers le bien idéal et vous accompagneront à chaque étape pour un parcours sans stress. Contactez-nous dès aujourd'hui pour une visite et laissez-nous vous faire découvrir ce joyau d'exception !<br>Honoraires à la charge du vendeur.  Classe énergie B, Classe climat A Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 604.00 € et 835.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAM INFINITY : Johan BLOT<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 489762179",
   "photos": [
-   "https://img.netty.immo/product/company58494kzv/VM5535/1792496227_VM5535_44_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1792496415_VM5535_48_original.jpg",
-   "https://img.netty.immo/product/company58494kzv/VM5535/1792496229_VM5535_46_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM5535/1792496227_VM5535_44_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1792496227_VM5535_43_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1792496230_VM5535_47_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1788340677_VM5535_23_original.jpg",
@@ -2273,7 +2272,8 @@
    "https://img.netty.immo/product/company58494kzv/VM5535/1788340678_VM5535_24_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1788340680_VM5535_27_original.jpg",
    "https://img.netty.immo/product/company58494kzv/VM5535/1788340679_VM5535_26_original.jpg",
-   "https://img.netty.immo/product/company58494kzv/VM5535/1792496228_VM5535_45_original.jpg"
+   "https://img.netty.immo/product/company58494kzv/VM5535/1792496228_VM5535_45_original.jpg",
+   "https://img.netty.immo/product/company58494kzv/VM5535/1788340683_VM5535_31_original.jpg"
   ],
   "vendeur": "agency",
   "type_annonce": "buy",
@@ -2283,13 +2283,13 @@
   "jardin": true,
   "publication": "2026-10-21T16:37:52.599Z",
   "baisse_signalee": false,
-  "lat": 47.902733605,
-  "lon": 1.908606557,
+  "lat": 47.91848183132767,
+  "lon": 1.9310545984822127,
   "bbox": [
-   1.875757772,
-   47.813280211,
-   1.948711393,
-   47.933538903
+   1.9303844042457734,
+   47.91803267237888,
+   1.931724792718652,
+   47.91893099027646
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-23",
@@ -2300,8 +2300,8 @@
     "prix": 287200
    }
   ],
-  "flou": "cityOrArrondissement",
-  "flou_rayon": null,
+  "flou": "disk",
+  "flou_rayon": 50,
   "cave": true,
   "cheminee": null,
   "terrasse": null
@@ -2951,7 +2951,7 @@
   "titre": "Vente maison 5 pieces avec double garage et jardinet a vendre a",
   "ville": "Orléans",
   "cp": "45100",
-  "prix": 300000,
+  "prix": 290000,
   "surface": 100,
   "terrain": 89,
   "pieces": 4,
@@ -2981,7 +2981,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "2026-10-09T12:21:57.119Z",
-  "baisse_signalee": false,
+  "baisse_signalee": true,
   "lat": 47.89361974844267,
   "lon": 1.901064410472499,
   "bbox": [
@@ -2997,6 +2997,10 @@
    {
     "date": "2026-11-15",
     "prix": 300000
+   },
+   {
+    "date": "2026-11-23",
+    "prix": 290000
    }
   ],
   "flou": "disk",
@@ -5563,8 +5567,8 @@
    47.93175736695499
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-22",
-  "active": false,
+  "vu_le": "2026-11-23",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7137,12 +7141,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/0971b1abb49a61d804e6410feb0924e1/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/a26731f957acfcab67beb5f992cf395c/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -16617,13 +16621,13 @@
   "terrasse": true,
   "publication": "2026-11-19T13:59:18.455Z",
   "baisse_signalee": false,
-  "lat": 47.927719802302974,
-  "lon": 1.8903151964776426,
+  "lat": 47.927710802302975,
+  "lon": 1.8903181961464812,
   "bbox": [
-   1.8869637168179265,
-   47.925473981421966,
-   1.8936666761373586,
-   47.92996562318398
+   1.8869667170699318,
+   47.92546498142197,
+   1.8936696752230306,
+   47.92995662318398
   ],
   "flou": "disk",
   "flou_rayon": 250,
@@ -17742,7 +17746,7 @@
   "dpe": "D",
   "dpe_valeur": 216,
   "annee": null,
-  "description": "À Orléans à proximité, venez découvrir cette maison mitoyenne de 3 pièces, rénovée en 2016. Elle offre environ 84 m² habitables avec un espace extérieur et 2 places de stationnements.<br>Elle se compose des espaces suivants : <br>Au rez-de-chaussée :<br>- Une entrée avec WC indépendant,<br>- Un salon et un espace salle à manger avec cuisine ouverte équipée,<br>- Un espace cellier / buanderie,<br>À l'étage :<br>- Deux chambres avec placard,<br>- Une salle d'eau,<br>- Deux WC, dont un séparé,<br>À l'extérieur, la maison dispose d'une terrasse, d'une entrée couverte et de deux places de stationnement.<br>L'intérieur est en bon état. La maison est équipée de fenêtres en PVC double vitrage et d'un chauffage électrique individuel. Le DPE est classé D.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat B Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1700.00 € et 2340.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. Ce bien vous est proposé par un agent commercial (Entreprise individuelle). <br>Votre conseiller L'ADN IMMO : Clément LECAS<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 894503911",
+  "description": "Située à Orléans, cette ancienne longère rénovée en 2016 offre près de 85 m² habitables sur deux niveaux, avec un espace extérieur et 2 places de stationnements.<br>Elle se compose des espaces suivants :<br>Au rez-de-chaussée :<br>- Une entrée avec WC indépendant,<br>- Un salon et un espace salle à manger avec cuisine ouverte équipée,<br>- Un espace cellier / buanderie,<br>À l'étage :<br>- Deux chambres avec placard,<br>- Une salle d'eau,<br>- WC indépendant,<br>Sous le auvent, une terrasse offre un espace extérieur abrité pour déjeuner. La cour fermée par un portail permet de stationner une voiture. Une seconde place privative se trouve sur un parking extérieur à une quinzaine de mètres.<br>La maison affiche un DPE est classé D.<br>Venez découvrir cette maison, dont l'intérieur en très bon état vous permet d'emménager dès la remise des clés, sans travaux à prévoir.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat B Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1700.00 € et 2340.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller L'ADN IMMO : Clément LECAS<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 894503911",
   "photos": [
    "https://img.netty.immo/product/company56118jmd/VM1212/17952584851_VM1212_21_original.jpg",
    "https://img.netty.immo/product/company56118jmd/VM1212/17952584801_VM1212_19_original.jpg",
@@ -18000,6 +18004,66 @@
    {
     "date": "2026-11-23",
     "prix": 219900
+   }
+  ]
+ },
+ "bienici:ag451517-504033857": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/ag451517-504033857",
+  "titre": "FAUBOURG SAINT VINCENT // MAISON DE VILLE AVEC JARDIN / 6 CHAMBRES",
+  "ville": "Orléans",
+  "cp": "45000",
+  "prix": 439000,
+  "surface": 233,
+  "terrain": 623,
+  "pieces": 8,
+  "chambres": 6,
+  "dpe": "D",
+  "dpe_valeur": 165,
+  "annee": 1900,
+  "description": "Quartier Faubourg Saint Vincent, proche Théâtre, découvrez cette grande maison de ville idéale pour une vie de famille.\n\nElle se compose au rez-de-chaussée :\n\nUn hall d'entrée avec vestiaire, salle à manger, salon avec cheminée, cuisine aménagée, et une chaufferie.\n\nAu premier étage : une salle d'eau avec douche et baignoire, quatre chambres dont une avec salle de bains privative.\n\nAu deuxième étage : une salle d'eau, deux chambres et un grenier pouvant être aménagé.\nUne cave et une dépendance.\nBeau jardin clos de mur au calme.\nLes plus : toiture récente, ravalement de façade et huisseries double vitrage alu.\n\nPrévoir budget travaux !",
+  "photos": [
+   "https://photos.ubiflow.net/451517/504033857/photos/1.jpg?INSOON_EB_5512801818_20260107174919",
+   "https://photos.ubiflow.net/451517/504033857/photos/2.jpg?INSOON_EB_5512801818_20260107174919",
+   "https://photos.ubiflow.net/451517/504033857/photos/3.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/4.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/5.jpg?INSOON_EB_5512801818_20260107174919",
+   "https://photos.ubiflow.net/451517/504033857/photos/6.jpg?INSOON_EB_5512801818_20260107174919",
+   "https://photos.ubiflow.net/451517/504033857/photos/7.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/8.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/9.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/10.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/11.jpg?INSOON_EB_5512801818_20260521181929",
+   "https://photos.ubiflow.net/451517/504033857/photos/12.jpg?INSOON_EB_5512801818_20260521181929"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": false,
+  "piscine": null,
+  "jardin": true,
+  "cave": true,
+  "cheminee": null,
+  "terrasse": null,
+  "publication": "1970-01-01T00:00:00.000Z",
+  "baisse_signalee": true,
+  "lat": 47.90877068333355,
+  "lon": 1.914380783229011,
+  "bbox": [
+   1.9137107162030103,
+   47.90832152438495,
+   1.9150508502550116,
+   47.90921984228215
+  ],
+  "flou": "disk",
+  "flou_rayon": 50,
+  "premier_vu": "2026-11-23",
+  "vu_le": "2026-11-23",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-23",
+    "prix": 439000
    }
   ]
  }
