@@ -1579,13 +1579,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.91630223584443,
-  "lon": 1.9152393795166358,
+  "lat": 47.916263235844426,
+  "lon": 1.9152733792118333,
   "bbox": [
-   1.9145692101889058,
-   47.91585307689567,
-   1.9159095488443658,
-   47.91675139479318
+   1.9146032103892454,
+   47.91581407689567,
+   1.9159435480344211,
+   47.91671239479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-24",
@@ -3601,7 +3601,7 @@
   "titre": "Maison bourgeoise rénovée Orléans Madeleine",
   "ville": "Orléans",
   "cp": "45000",
-  "prix": 439000,
+  "prix": 399000,
   "surface": 107.5,
   "terrain": null,
   "pieces": 5,
@@ -3612,9 +3612,9 @@
   "description": "Découvrez cette superbe maison bourgeoise entièrement rénovée située au coeur du quartier Madeleine à Orléans. D'une surface d'environ 120 m2, elle offre un cadre de vie élégant et confortable, idéal pour une famille ou un couple à la recherche de prestations de qualité. <br> Au rez-de-chaussée, vous profiterez d'un vaste salon-séjour lumineux et d'une cuisine moderne, une buanderie et des toilettes séparées.<br> Au premier étage, un palier dessert 2 chambres, une salle d'eau des toilettes, puis au second et dernier étage, une suite parentale sous combles avec poutres apparentes , et une salle d'eau<br> À l'extérieur, une agréable terrasse et un emplacement de parking privatif ajoutent au confort de ce bien rare sur le secteur.<br> Une cave et un local à vélos complètent ce bien d'exception.<br> Beaux matériaux, parquets chêne, salles d'eau de qualité, <br> Située au calme, face à l'ancien hopital Madeleine et dans une copropriété sécurisée bien tenue(charges courantes annuelles 1000EUR).<br> Proche tous commerces, bords de Loire, Tram B, ecoles.<br> PHOTOS NON CONTRACTUELLES.<br> Les honoraires sont à charge vendeur<br> DPE: C<br> GES: B<br> Contacter Véronique de La Peschardière tél: <span class=\"importDescriptionDecorator\" data-type=\"phone\">06 87 44 81 84</span> , Agent commercial immatriculé au RSAC d'Orléans sous le No 521 550 772<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr   - Annonce rédigée et publiée par un Agent Mandataire -",
   "photos": [
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_b86561a757fe4358140bf8980ece3a06.jpg",
+   "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_1f45c527f06ef45d2de8a43ea36dfafd.jpg",
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_e29641051900450824c1ef6339688ad0.jpg",
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_67210e31326703352d108ada558d6272.jpg",
-   "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_1f45c527f06ef45d2de8a43ea36dfafd.jpg",
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_11fbcdd838d8c264d8584cd24ccec946.jpg",
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_54ad5d9561d20de2a8339c9a55879e81.jpg",
    "https://loireimmobilier.staticlbi.com/original/images/biens/3/d3aabe904655361d7eee7811ee42b699/photo_cada8a62c22d63ba13750de2d4b458cb.jpg",
@@ -3645,6 +3645,10 @@
    {
     "date": "2026-11-15",
     "prix": 439000
+   },
+   {
+    "date": "2026-11-24",
+    "prix": 399000
    }
   ],
   "flou": "disk",
@@ -7141,12 +7145,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/e39379adf69800d61c94269322f53c5c/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/21e5c01bc6081a1c49f3fc43ab241159/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -17746,7 +17750,7 @@
   "dpe": "D",
   "dpe_valeur": 216,
   "annee": null,
-  "description": "Située à Orléans, cette ancienne longère rénovée en 2016 offre près de 85 m² habitables sur deux niveaux, avec un espace extérieur et 2 places de stationnements.<br>Elle se compose des espaces suivants :<br>Au rez-de-chaussée :<br>- Une entrée avec WC indépendant,<br>- Un salon et un espace salle à manger avec cuisine ouverte équipée,<br>- Un espace cellier / buanderie,<br>À l'étage :<br>- Deux chambres avec placard,<br>- Une salle d'eau,<br>- WC indépendant,<br>Sous le auvent, une terrasse offre un espace extérieur abrité pour déjeuner. La cour fermée par un portail permet de stationner une voiture. Une seconde place privative se trouve sur un parking extérieur à une quinzaine de mètres.<br>La maison affiche un DPE est classé D.<br>Venez découvrir cette maison, dont l'intérieur en très bon état vous permet d'emménager dès la remise des clés, sans travaux à prévoir.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat B Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1700.00 € et 2340.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller L'ADN IMMO : Clément LECAS<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 894503911",
+  "description": "Située à Orléans, cette ancienne longère rénovée en 2016 offre près de 85 m² habitables sur deux niveaux, avec un espace extérieur et 2 places de stationnements.<br>Elle se compose des espaces suivants :<br>Au rez-de-chaussée :<br>- Une entrée avec WC indépendant,<br>- Un salon et un espace salle à manger avec cuisine ouverte équipée,<br>- Un espace cellier / buanderie,<br>À l'étage :<br>- Deux chambres avec placard,<br>- Une salle d'eau,<br>- WC indépendant,<br>Sous le auvent, une terrasse offre un espace extérieur abrité pour déjeuner. La cour fermée par un portail permet de stationner une voiture. Une seconde place privative se trouve sur un parking extérieur à une quinzaine de mètres.<br>La maison affiche un DPE est classé D.<br>Venez découvrir cette maison, dont l'intérieur en très bon état vous permet d'emménager dès la remise des clés, sans travaux à prévoir.<br>Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat B Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 1700.00 € et 2340.00 € sur les années 2021, 2022 et 2023 (abonnements compris). Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. Ce bien vous est proposé par un agent commercial (Entreprise individuelle). <br>Votre conseiller L'ADN IMMO : Clément LECAS<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 894503911",
   "photos": [
    "https://img.netty.immo/product/company56118jmd/VM1212/17952584851_VM1212_21_original.jpg",
    "https://img.netty.immo/product/company56118jmd/VM1212/17952584801_VM1212_19_original.jpg",
