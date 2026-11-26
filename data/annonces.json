@@ -3867,7 +3867,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -4190,7 +4190,7 @@
   "annee": 1978,
   "description": "ORLEANS SUD, aux portes de la Sologne dans un quartier calme et verdoyant à seulement quinze minutes d'Orléans Centre, à vendre charmante Maison familiale T4 avec jardin clos, arboré et intimiste de 500 m2.\nL'entrée mène à une belle pièce de vie lumineuse, traversante avec son poêle à bois également ouverte sur la cuisine équipée et aménagée ainsi que sur les extérieurs.\nLa configuration offre une vie de plain-pied si besoin grâce à une chambre de 14,50 m2 en rez-de-chaussée esprit loft (actuellement bureau) apportant confort et praticité au quotidien.\nA l'étage, un espace nuit bien agencé comprenant trois chambres dont une chambre parentale avec sa salle d'eau privative et également une salle de bain parfaitement adaptée à une vie de famille.\nIdéalement située dans quartier calme proche du bus (ligne 40) axes routiers, écoles, transports, commodités, cette maison à la décoration aux couleurs actuelles réunit tous les atouts d'une vie agréable en toute sécurité. Coup de coeur ! Les honoraires sont à la charge du vendeur.\nLes informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr.\n\nRéseau Immobilier CAPIFRANCE - Votre agent commercial (RSAC N°804 641 504 - Greffe de ORLEANS) Anne GONZALEZ Entrepreneur Individuel <span class=\"importDescriptionDecorator\" data-type=\"phone\">06 08 05 39 39</span> - Réf.969249",
   "photos": [
-   "https://photos.ubiflow.net/340369/548980952/photos/1.jpg?INSOON_EB_5512801818_20260909144028",
+   "https://photos.ubiflow.net/340369/548980952/photos/1.jpg?INSOON_EB_5512801818_20261126182524",
    "https://photos.ubiflow.net/340369/548980952/photos/2.jpg?INSOON_EB_5512801818_20260909144028",
    "https://photos.ubiflow.net/340369/548980952/photos/3.jpg?INSOON_EB_5512801818_20260909144028",
    "https://photos.ubiflow.net/340369/548980952/photos/4.jpg?INSOON_EB_5512801818_20260909144028",
@@ -4210,7 +4210,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "1970-01-01T00:00:00.000Z",
-  "baisse_signalee": true,
+  "baisse_signalee": false,
   "lat": 47.81844910416829,
   "lon": 1.9291311498259,
   "bbox": [
@@ -4925,7 +4925,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -5393,7 +5393,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -5572,7 +5572,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -6825,7 +6825,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7145,12 +7145,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/dbf929f72ef73f50202673c8042483b2/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -8476,10 +8476,12 @@
   "annee": 1900,
   "description": "Atelier à finir d'aménager à Orléans - Notre Dame de Recouvrance.<br>Tout le gros oeuvre est fait<br>Sur 2 niveaux pour un total de 180m (164m2)<br> 4 chambres, jardin 90 m².<br>Contactez Céline Labbe<br><span class=\"importDescriptionDecorator\" data-type=\"phone\">0626648121</span><br>Dans une copropriété de 1 lots. Quote-part moyenne du budget prévisionnel 1 680 €/an. Aucune procédure n'est en cours. Non soumis au DPE. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller ATOUT IMMO : Céline LABBE<br>Agent commercial (Entreprise individuelle)",
   "photos": [
-   "https://img.netty.immo/product/atoutimmo/VM540/1782825434_VM540_29_original.jpg",
+   "https://img.netty.immo/product/atoutimmo/VM540/1795687695_VM540_32_original.jpg",
+   "https://img.netty.immo/product/atoutimmo/VM540/1795687692_VM540_30_original.jpg",
    "https://img.netty.immo/product/atoutimmo/VM540/1768921698_VM540_21_original.jpg",
-   "https://img.netty.immo/product/atoutimmo/VM540/1782825389_VM540_25_original.jpg",
-   "https://img.netty.immo/product/atoutimmo/VM540/1782825391_VM540_27_original.jpg"
+   "https://img.netty.immo/product/atoutimmo/VM540/1782825391_VM540_27_original.jpg",
+   "https://img.netty.immo/product/atoutimmo/VM540/1795687693_VM540_31_original.jpg",
+   "https://img.netty.immo/product/atoutimmo/VM540/1782825389_VM540_25_original.jpg"
   ],
   "vendeur": "agency",
   "type_annonce": "buy",
@@ -15513,7 +15515,7 @@
  "pap:464501723": {
   "source": "pap",
   "url": "https://www.pap.fr/annonces/-r464501723",
-  "titre": "Vente maison 190 m² Fay-aux-Loges",
+  "titre": "Vente maison Fay-aux-Loges 190 m²",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 285000,
@@ -15524,7 +15526,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Vente maison, Fay-aux-Loges (45450), 190 m², 285.000 EUR",
+  "description": "Vente maison Fay-aux-Loges (45450) 190 m² 285.000 EUR",
   "photos": [
    "https://cdn.pap.fr/photos/pap/7a/82/7a82f7db4218ad2881b07c4933419cef/7-p2.jpg"
   ],
@@ -15541,7 +15543,7 @@
   "bbox": null,
   "flou": null,
   "premier_vu": "2026-11-16",
-  "vu_le": "2026-11-17",
+  "vu_le": "2026-11-26",
   "active": true,
   "historique": [
    {
@@ -18496,8 +18498,8 @@
   "terrain": 330,
   "pieces": 6,
   "chambres": 5,
-  "dpe": "C",
-  "dpe_valeur": 116,
+  "dpe": "B",
+  "dpe_valeur": 96,
   "annee": 1930,
   "description": "iad France - Benjamin Poux vous propose: **ORLÉANS – QUARTIER FAUBOURG SAINT-VINCENT – MAISON FAMILIALE 134 M² – 5 CHAMBRES – JARDIN SANS VIS-À-VIS – DPE B**<br>Et si votre prochaine maison familiale réunissait espace, confort et économies d'énergie, dans le quartier apprécié du Faubourg Saint-Vincent, à proximité du centre-ville d'Orléans ?<br>Avec ses 134 m² habitables, ses 5 chambres, son jardin à l'abri des regards et son garage, cette maison offre un cadre de vie particulièrement pratique pour toute la famille.<br>Son véritable point fort ? Des dépenses énergétiques remarquablement maîtrisées ! Classée DPE B, elle bénéficie d'une pompe à chaleur récente et de panneaux photovoltaïques de 4 kW. À titre indicatif, les dépenses constatées représentent environ 1 500 € par an, soit 125 € par mois, chauffage et électricité compris, après déduction des revenus de la production photovoltaïque. Un véritable avantage pour une maison de cette surface !<br>Au rez-de-chaussée, découvrez une agréable pièce de vie donnant sur un jardin entièrement clos, sans vis-à-vis. Un espace extérieur intime, idéal pour les repas en famille, les enfants ou simplement profiter des beaux jours.<br>Répartis sur les deux étages, 5 chambres et plusieurs espaces complémentaires permettent à chacun de trouver sa place. L'une des chambres, traversante, peut notamment être aménagée en bureau ou en espace de jeux. Une salle de bains, une salle d'eau, des rangements et une cave complètent l'ensemble.<br>Un garage privatif offre également un espace appréciable pour stationner une petite voiture, ranger des vélos ou bénéficier d'un espace de stockage supplémentaire.<br>Côté emplacement, le quotidien est facilité : écoles, commerces, équipements sportifs et services à proximité. Le centre-ville d'Orléans et Place d'Arc sont rapidement accessibles à vélo, ou en une quinzaine de minutes environ à pied.<br>5 chambres, un jardin intime, un garage et des dépenses énergétiques particulièrement faibles : une maison fonctionnelle, confortable et économique, pensée pour la vie de famille.<br>Contactez-moi pour en savoir plus et organiser votre visite.<br>Le prix affiché correspond à un prix de première offre possible, honoraires de négociation inclus. Toutes les offres seront transmises au vendeur, lequel restera libre dans la sélection de l'offre à laquelle il entend donner suite.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Benjamin Poux mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de orleans sous le numéro 809998495, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
   "photos": [
@@ -18908,7 +18910,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 5 pièces · 119 m² · Terrain : 1457m² (2 520 €/m²)",
+  "description": "Maison · 5 pièces · 119 m² · Terrain : 1457m² · 2 520 €/m² · Pro",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/ee/78/b0/ee78b0ec5b5f261a0eecaaa825ccd20cd829f793.jpg?rule=ad-image"
   ],
@@ -18948,7 +18950,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 105 m² · Terrain : 1479m² (2 612 €/m²)",
+  "description": "Maison · 6 pièces · 105 m² · Terrain : 1479m² · 2 612 €/m² · Pro",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/85/f0/ca/85f0cacedbc1c4d8c26121d7adc25d4366824d98.jpg?rule=ad-image"
   ],
