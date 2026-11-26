@@ -1579,13 +1579,13 @@
   "jardin": true,
   "publication": "2026-11-04T09:30:58.124Z",
   "baisse_signalee": false,
-  "lat": 47.916263235844426,
-  "lon": 1.9152733792118333,
+  "lat": 47.91630223584443,
+  "lon": 1.9152393795166358,
   "bbox": [
-   1.9146032103892454,
-   47.91581407689567,
-   1.9159435480344211,
-   47.91671239479318
+   1.9145692101889058,
+   47.91585307689567,
+   1.9159095488443658,
+   47.91675139479318
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
@@ -4281,7 +4281,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-26",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7145,12 +7145,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/a7b23b47bf9ee3ba3b7c5f4816d16f90/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/202db9e649ee014a1d0024835dac86c6/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -7169,8 +7169,8 @@
    47.88278
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-25",
-  "active": false,
+  "vu_le": "2026-11-26",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7767,9 +7767,9 @@
   "titre": "Maison à vendre de 7 pièces de 136 m²",
   "ville": "Orléans",
   "cp": "45000",
-  "prix": 349000,
+  "prix": 339000,
   "surface": 136,
-  "terrain": 485,
+  "terrain": 411,
   "pieces": 7,
   "chambres": 5,
   "dpe": "C",
@@ -7796,7 +7796,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "1970-01-01T00:00:00.000Z",
-  "baisse_signalee": false,
+  "baisse_signalee": true,
   "lat": 47.90390075197217,
   "lon": 1.89983949870047,
   "bbox": [
@@ -7812,6 +7812,10 @@
    {
     "date": "2026-11-15",
     "prix": 349000
+   },
+   {
+    "date": "2026-11-26",
+    "prix": 339000
    }
   ],
   "flou": "disk",
@@ -18495,7 +18499,7 @@
   "dpe": "C",
   "dpe_valeur": 116,
   "annee": 1930,
-  "description": "iad France - Benjamin Poux vous propose: ORLÉANS – MAISON FAMILIALE 134 M² – 5 CHAMBRES – JARDIN SANS VIS-À-VIS – DPE B<br>Et si votre prochaine maison familiale réunissait espace, confort et économies d'énergie, à proximité du centre-ville d'Orléans ?<br>Avec ses 134 m² habitables, ses 5 chambres, son jardin à l'abri des regards et son garage, cette maison offre un cadre de vie particulièrement pratique pour toute la famille.<br>Son véritable point fort ? Des dépenses énergétiques remarquablement maîtrisées ! Classée DPE B, elle bénéficie d'une pompe à chaleur récente et de panneaux photovoltaïques de 4 kW. À titre indicatif, les dépenses constatées représentent environ 1 500 € par an, soit 125 € par mois, chauffage et électricité compris, après déduction des revenus de la production photovoltaïque. Un véritable avantage pour une maison de cette surface !<br>Au rez-de-chaussée, découvrez une agréable pièce de vie donnant sur un jardin entièrement clos, sans vis-à-vis. Un espace extérieur intime, idéal pour les repas en famille, les enfants ou simplement profiter des beaux jours.<br>Répartis sur les deux étages, 5 chambres et plusieurs espaces complémentaires permettent à chacun de trouver sa place. L'une des chambres, traversante, peut notamment être aménagée en bureau ou en espace de jeux. Une salle de bains, une salle d'eau, des rangements et une cave complètent l'ensemble.<br>Un garage privatif offre également un espace appréciable pour stationner une petite voiture, ranger des vélos ou bénéficier d'un espace de stockage supplémentaire.<br>Côté emplacement, le quotidien est facilité : écoles, commerces, équipements sportifs et services à proximité. Le centre-ville d'Orléans et Place d'Arc sont rapidement accessibles à vélo, ou en une quinzaine de minutes environ à pied.<br>5 chambres, un jardin intime, un garage et des dépenses énergétiques particulièrement faibles : une maison fonctionnelle, confortable et économique, pensée pour la vie de famille.<br>Contactez-moi pour en savoir plus et organiser votre visite.<br>Le prix affiché correspond à un prix de première offre possible, honoraires de négociation inclus. Toutes les offres seront transmises au vendeur, lequel restera libre dans la sélection de l'offre à laquelle il entend donner suite.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Benjamin Poux mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de orleans sous le numéro 809998495, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+  "description": "iad France - Benjamin Poux vous propose: **ORLÉANS – QUARTIER FAUBOURG SAINT-VINCENT – MAISON FAMILIALE 134 M² – 5 CHAMBRES – JARDIN SANS VIS-À-VIS – DPE B**<br>Et si votre prochaine maison familiale réunissait espace, confort et économies d'énergie, dans le quartier apprécié du Faubourg Saint-Vincent, à proximité du centre-ville d'Orléans ?<br>Avec ses 134 m² habitables, ses 5 chambres, son jardin à l'abri des regards et son garage, cette maison offre un cadre de vie particulièrement pratique pour toute la famille.<br>Son véritable point fort ? Des dépenses énergétiques remarquablement maîtrisées ! Classée DPE B, elle bénéficie d'une pompe à chaleur récente et de panneaux photovoltaïques de 4 kW. À titre indicatif, les dépenses constatées représentent environ 1 500 € par an, soit 125 € par mois, chauffage et électricité compris, après déduction des revenus de la production photovoltaïque. Un véritable avantage pour une maison de cette surface !<br>Au rez-de-chaussée, découvrez une agréable pièce de vie donnant sur un jardin entièrement clos, sans vis-à-vis. Un espace extérieur intime, idéal pour les repas en famille, les enfants ou simplement profiter des beaux jours.<br>Répartis sur les deux étages, 5 chambres et plusieurs espaces complémentaires permettent à chacun de trouver sa place. L'une des chambres, traversante, peut notamment être aménagée en bureau ou en espace de jeux. Une salle de bains, une salle d'eau, des rangements et une cave complètent l'ensemble.<br>Un garage privatif offre également un espace appréciable pour stationner une petite voiture, ranger des vélos ou bénéficier d'un espace de stockage supplémentaire.<br>Côté emplacement, le quotidien est facilité : écoles, commerces, équipements sportifs et services à proximité. Le centre-ville d'Orléans et Place d'Arc sont rapidement accessibles à vélo, ou en une quinzaine de minutes environ à pied.<br>5 chambres, un jardin intime, un garage et des dépenses énergétiques particulièrement faibles : une maison fonctionnelle, confortable et économique, pensée pour la vie de famille.<br>Contactez-moi pour en savoir plus et organiser votre visite.<br>Le prix affiché correspond à un prix de première offre possible, honoraires de négociation inclus. Toutes les offres seront transmises au vendeur, lequel restera libre dans la sélection de l'offre à laquelle il entend donner suite.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de M Benjamin Poux mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de orleans sous le numéro 809998495, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
   "photos": [
    "https://images.playiad.com/property/broadcast/2026/11/23/01a2098ed325af42d3a93bce549a6108.jpg",
    "https://images.playiad.com/property/broadcast/2026/11/23/01a2098d45b4e8a41f0821f4271f5101.png",
@@ -18870,16 +18874,16 @@
   "terrasse": null,
   "publication": "2026-11-25T19:35:06.225Z",
   "baisse_signalee": false,
-  "lat": 47.90799571260011,
-  "lon": 1.9272887377662264,
+  "lat": 47.90810635100309,
+  "lon": 1.9248065465164603,
   "bbox": [
-   1.9239384052903168,
-   47.905749891728235,
-   1.930639070242136,
-   47.91024153347199
+   1.9241364800212784,
+   47.90765719205448,
+   1.9254766130116423,
+   47.908555509951704
   ],
   "flou": "disk",
-  "flou_rayon": 250,
+  "flou_rayon": 50,
   "premier_vu": "2026-11-26",
   "vu_le": "2026-11-26",
   "active": true,
@@ -18893,7 +18897,7 @@
  "leboncoin:3317920995": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3317920995.htm",
-  "titre": "Maison 5 pièces 119 m² Traînou",
+  "titre": "Maison 5 pièces 119 m²",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 299900,
@@ -18933,7 +18937,7 @@
  "leboncoin:3317914529": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3317914529.htm",
-  "titre": "Maison 6 pièces 105 m² Traînou",
+  "titre": "Maison 6 pièces 105 m²",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 274310,
@@ -18967,6 +18971,126 @@
    {
     "date": "2026-11-26",
     "prix": 274310
+   }
+  ]
+ },
+ "bienici:era-2-61796303": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/era-2-61796303",
+  "titre": "Orleans hyper centre quartier Bannier -  Maison 5 pièces de 100 m2 + Garage",
+  "ville": "Orléans",
+  "cp": "45000",
+  "prix": 327500,
+  "surface": 100,
+  "terrain": null,
+  "pieces": 5,
+  "chambres": 3,
+  "dpe": "E",
+  "dpe_valeur": 303,
+  "annee": 1800,
+  "description": "Au coeur d'Orléans, à quelques pas de la place du Martroi, cette élégante maison ancienne entièrement rénovée conjugue avec raffinement le charme de l'ancien et le confort contemporain.<br>Le rez-de-chaussée se compose actuellement d'une entrée spacieuse desservant un bureau et un WC, offrant un espace déjà fonctionnel, parfaitement organisé et adapté à un usage professionnel ou mixte.<br>Dès le premier étage, vous découvrirez une superbe pièce de vie de plus de 40 m², baignée de lumière grâce à son exposition plein sud. Cet espace généreux accueille une cuisine ouverte, aménagée et équipée, pensée pour allier élégance et convivialité. Un cellier discret vient compléter ce niveau avec praticité.<br>Au deuxième étage, la maison propose deux chambres avec rangements intégrés, offrant confort et intimité, ainsi qu'une salle de bains élégante, équipée à la fois d'une douche, d'une baignoire et de WC.<br>Un grand garage avec espace buanderie et porte motorisée complète ce bien rare en hypercentre, apportant un confort de vie particulièrement appréciable en centre-ville.<br>Le rez-de-chaussée accueille actuellement une activité libérale et offre par ailleurs un très beau potentiel d'évolution : il peut aisément être repensé en espace indépendant, chambre autonome ou espace dédié à la location type Airbnb, avec la possibilité d'y créer une kitchenette et une salle d'eau selon les besoins.<br>Idéalement située, la maison bénéficie d'un emplacement privilégié à proximité immédiate des commerces, de la gare, de la future faculté ainsi que des lignes A et B du tramway, offrant un cadre de vie aussi pratique que recherché.",
+  "photos": [
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303a.jpg?DATEMAJ=26/11/2026-10:08:25",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303b.jpg?DATEMAJ=26/11/2026-10:08:25",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303c.jpg?DATEMAJ=26/11/2026-10:08:25",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303d.jpg?DATEMAJ=26/11/2026-10:08:25",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303e.jpg?DATEMAJ=26/11/2026-10:08:26",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303f.jpg?DATEMAJ=26/11/2026-10:08:26",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303g.jpg?DATEMAJ=26/11/2026-10:08:26",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303h.jpg?DATEMAJ=26/11/2026-10:08:26",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303i.jpg?DATEMAJ=26/11/2026-10:08:26",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303j.jpg?DATEMAJ=26/11/2026-10:08:27",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303k.jpg?DATEMAJ=26/11/2026-10:08:27",
+   "https://media.immo-facile.com/office2/era-orleans/catalog/images/pr_p/6/1/7/9/6/3/0/3/61796303l.jpg?DATEMAJ=26/11/2026-10:08:27"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": false,
+  "piscine": null,
+  "jardin": null,
+  "cave": null,
+  "cheminee": false,
+  "terrasse": null,
+  "publication": "2026-11-26T11:35:43.138Z",
+  "baisse_signalee": false,
+  "lat": 47.90489504526491,
+  "lon": 1.900353674580621,
+  "bbox": [
+   1.8970034740250254,
+   47.9026492243941,
+   1.9037038751362167,
+   47.90714086613572
+  ],
+  "flou": "disk",
+  "flou_rayon": 250,
+  "premier_vu": "2026-11-26",
+  "vu_le": "2026-11-26",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-26",
+    "prix": 327500
+   }
+  ]
+ },
+ "bienici:apimo-87634835": {
+  "source": "bienici",
+  "url": "https://www.bienici.com/annonce/apimo-87634835",
+  "titre": "",
+  "ville": "Fay-aux-Loges",
+  "cp": "45450",
+  "prix": 219500,
+  "surface": 147.43,
+  "terrain": 222,
+  "pieces": 6,
+  "chambres": 3,
+  "dpe": "C",
+  "dpe_valeur": 116.1,
+  "annee": null,
+  "description": "Les Agents de l'Immobilier vous presentent:\n\nSituée dans un environnement agréable à Fay-aux-Loges, à proximité du canal et du bourg, venez découvrir cette charmante maison ancienne qui saura vous séduire par son authenticité, son caractère et son atmosphère chaleureuse.\n\nEntièrement rénovée en 2017-2018, cette maison a su conserver tout le charme de l'ancien tout en bénéficiant d'une rénovation permettant de profiter d'un cadre de vie confortable et fonctionnel.\n\nDès le rez-de-chaussée, vous découvrirez une belle et spacieuse pièce de vie  réunissant cuisine et salle à manger, offrant un espace convivial et agréable pour partager de bons moments en famille ou entre amis.\n\nLa maison dispose également d'un espace complémentaire pouvant être aménagé selon vos envies : salon cosy, bureau pour le télétravail ou encore salle de jeux pour les enfants. Un véritable espace supplémentaire qui permet à chacun de trouver sa place.\n\nÀ l'étage, l'espace nuit se compose de trois chambres spacieuses, dont une bénéficiant de sa propre salle d'eau privative. Une salle de bain avec WC vient compléter cet étage et apporte un confort supplémentaire au quotidien.\n\nL'ensemble offre ainsi quatre chambres et des espaces de vie modulables, parfaitement adaptés à une vie de famille.\n\nÀ l'extérieur, vous profiterez d'une parcelle de 222 m², entièrement sans vis-à-vis, permettant de savourer de précieux moments de tranquillité en toute intimité.\n\nSon emplacement est également un véritable atout : à proximité du canal pour profiter de belles promenades et à quelques pas du centre-bourg et de ses commodités, cette maison bénéficie d'un cadre de vie agréable et pratique au quotidien.\n\nVous serez séduits par cette maison pleine de charme, qui conjugue harmonieusement authenticité, fonctionnalité et confort, dans un environnement privilégié.",
+  "photos": [
+   "https://media.apimo.pro/cache/57d806b39034c7cde854daa7caacfd0c_e000d3457d_1920-original.jpg",
+   "https://media.apimo.pro/cache/02e9a2651f30cf883e188cdf07c1100f_ed3e657f0d_1920-original.jpg",
+   "https://media.apimo.pro/cache/d0a09d605b1220c4ffc588bc6d092458_dc847aff2a_1920-original.jpg",
+   "https://media.apimo.pro/cache/a833b08f573b4814db34063e03a0fb41_203d62311a_1920-original.jpg",
+   "https://media.apimo.pro/cache/b5fe74cc7606e2c33dc04b8cb63a1923_7138646bfa_1920-original.jpg",
+   "https://media.apimo.pro/cache/e9ad2b03598cd63662ea172e5b02e517_efb65c696e_1920-original.jpg",
+   "https://media.apimo.pro/cache/b85c969e1ee7d37e476dcc21676500fc_c51012c1da_1920-original.jpg",
+   "https://media.apimo.pro/cache/01fef25fa46a5748f6a6cf7884e57dc8_77a2f665ee_1920-original.jpg",
+   "https://media.apimo.pro/cache/bc419b8f8b0bb75bd20210f1b21d9218_0278bb3181_1920-original.jpg",
+   "https://media.apimo.pro/cache/494e445301ae00093d3c651ba639fef3_6f9f8ed300_1920-original.jpg",
+   "https://media.apimo.pro/cache/fd345efc4a1610827c78c182310c3bf2_4a758f0ac2_1920-original.jpg",
+   "https://media.apimo.pro/cache/90b435e74496e0c18387ce949c0d7be2_990f82d9e8_1920-original.jpg"
+  ],
+  "vendeur": "agency",
+  "type_annonce": "buy",
+  "neuf": false,
+  "garage": false,
+  "piscine": null,
+  "jardin": true,
+  "cave": null,
+  "cheminee": null,
+  "terrasse": null,
+  "publication": "2026-11-26T11:54:46.157Z",
+  "baisse_signalee": false,
+  "lat": 47.92951772442084,
+  "lon": 2.1395834524410264,
+  "bbox": [
+   2.137907572926367,
+   47.92839482214739,
+   2.141259331955686,
+   47.93064062669429
+  ],
+  "flou": "disk",
+  "flou_rayon": 125,
+  "premier_vu": "2026-11-26",
+  "vu_le": "2026-11-26",
+  "active": true,
+  "historique": [
+   {
+    "date": "2026-11-26",
+    "prix": 219500
    }
   ]
  }
