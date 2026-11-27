@@ -73,7 +73,7 @@
   "dpe": "D",
   "dpe_valeur": 165,
   "annee": 1948,
-  "description": "Maison mitoyenne de 135 m2 sur trois niveaux           <br>Découvrez cette propriété d'exception, où élégance contemporaine et intimité se rencontrent pour créer un cadre de vie unique. Proche de la futur université d'Orléans( à seulement 2 minutes à pied) et du TRAMWAY.<br>Cette maison dispose d'un salon/salle à manger, cuisine et WC au rez-de-chaussée.<br>De quarte chambres dans les niveaux supérieur ainsi que d'une salle de bain et d'une douche.<br>Deux des chambres disposent d'une mezzanine.<br> <br>Ce bien atypique dispose d'un patio pour les barbecues en été.<br>Le ravalement complet est récent et fait en respectant les ABF.<br>Chauffage central au gaz : Un système performant et économique pour un confort thermique optimal.<br>Un parking sécurisé à seulement 30 mètres.<br>  Le quartier, réputé pour son ambiance conviviale et ses infrastructures, est le cadre parfait pour s'épanouir. Les écoles de qualité, les parcs et les centres commerciaux sont tous accessibles en quelques minutes, garantissant ainsi un quotidien pratique et agréable.                <br>                  <br>                         Contactez-nous pour une visite        <br>                  <br>TEAMFI Team France Immobilier - Votre partenaire immobilier de confiance<br>           <br>Tél. : <span class=\"importDescriptionDecorator\" data-type=\"phone\">06 62 93 08 48</span>| Email : <span class=\"importDescriptionDecorator\" data-type=\"email\">jonathan.averlant@teamfi.fr</span> | Site : <span class=\"importDescriptionDecorator\" data-url=\"www.teamfi.fr\" data-type=\"basicUrl\">www.teamfi.fr</span><br>       <br>   <br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat D Montant moyen estimé des dépenses annuelles d'énergie pour un usage standard, établi à partir des prix de l'énergie de l'année 2021 : entre 2020.00 et 2770.00 €. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAMFI Team France Immobilier : Jonathan AVERLANT<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 512 562 166.<br>VENTE - ACHAT - GESTION LOCATIVE - LOCATION<br>TeamFi recrute, formation assurée.<br>Devenez apporteur d'affaires en complément de revenus, contactez-nous !<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale du mandataire indépendant en immobilier.",
+  "description": "Maison mitoyenne de 135 m2 sur trois niveaux           <br>Découvrez cette propriété d'exception, où élégance contemporaine et intimité se rencontrent pour créer un cadre de vie unique. Proche de la futur université d'Orléans( à seulement 2 minutes à pied) et du TRAMWAY.<br>Cette maison dispose d'un salon/salle à manger, cuisine et WC au rez-de-chaussée.<br>De quarte chambres dans les niveaux supérieur ainsi que d'une salle de bain et d'une douche.<br>Deux des chambres disposent d'une mezzanine.<br> <br>Ce bien atypique dispose d'un patio pour les barbecues en été.<br>Le ravalement complet est récent et fait en respectant les ABF.<br>Chauffage central au gaz : Un système performant et économique pour un confort thermique optimal.<br>Un parking sécurisé à seulement 30 mètres.<br>  Le quartier, réputé pour son ambiance conviviale et ses infrastructures, est le cadre parfait pour s'épanouir. Les écoles de qualité, les parcs et les centres commerciaux sont tous accessibles en quelques minutes, garantissant ainsi un quotidien pratique et agréable.<br>Honoraires à la charge du vendeur.  Classe énergie D, Classe climat D Montant moyen estimé des dépenses annuelles d'énergie pour un usage standard, établi à partir des prix de l'énergie de l'année 2021 : entre 2020.00 et 2770.00 €. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : georisques.gouv.fr. <br>Votre conseiller TEAMFI Team France Immobilier : Jonathan AVERLANT<br>Agent commercial (Entreprise individuelle)  <br>  RSAC 512 562 166.<br>VENTE - ACHAT - GESTION LOCATIVE - LOCATION<br>TeamFi recrute, formation assurée.<br>Devenez apporteur d'affaires en complément de revenus, contactez-nous !<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale du mandataire indépendant en immobilier.",
   "photos": [
    "https://img.netty.immo/productcw/teamfi/2/VM3028/17841019201_VM3028_11_original.jpg",
    "https://img.netty.immo/productcw/teamfi/2/VM3028/17841019221_VM3028_13_original.jpg",
@@ -2921,7 +2921,7 @@
   "piscine": false,
   "jardin": true,
   "publication": "2026-10-11T20:07:18.397Z",
-  "baisse_signalee": true,
+  "baisse_signalee": false,
   "lat": 47.82485761473662,
   "lon": 1.9269886873833937,
   "bbox": [
@@ -3524,7 +3524,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -5689,7 +5689,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7145,12 +7145,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/8d690006af6844a226b823025a5ee5ff/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -9591,12 +9591,8 @@
   "dpe": "B",
   "dpe_valeur": 64,
   "annee": 2016,
-  "description": "iad France - Amélie Lacombe vous propose: ORLÉANS - MAISON - T5 130M² - GARAGE - PARKING - LUMINEUSE<br>Découvrez à Orléans cette maison qui allie confort moderne et luminosité. Sur 2 niveaux, elle offre 126 m² habitables avec une exposition plein sud, bien implantée sur un terrain de 600 m².<br>Dès l'entrée, le rez-de-chaussée s'articule autour d'une pièce de vie avec cuisine ouverte, équipée et aménagée. L'ensemble propose une surface de plus de 40m2 avec de nombreuses ouvertures sur le jardin.<br>Cette maison propose également une entrée spacieuse, une chambre et un point d'eau en rez de chaussée.<br>À l'étage, 3 chambres offrent de beaux volumes: la plus grande, spacieuse, convient bien à une chambre parentale, tandis que les autres, fonctionnelles et lumineuses, s'adaptent aisément aux besoins de chacun. Une salle de bain avec baignoire et douche ainsi qu'un WC indépendant complètent ce niveau.<br>Le bien dispose d'un jardin arboré et exposé plein Sud et d'un garage attenant. Le système de chauffage individuel combine gaz naturel et insert bois sur-mesure pour un confort thermique optimal en toutes saisons.<br>Elle est située à 8min de la gare des Aubrais et 25min de la base militaire de Bricy.<br>À proximité immédiate, une école se trouve à 800 m, un collège et un arrêt de bus à 1 km, rendant ce bien adapté à la vie quotidienne. Accès rapide tangentielle.<br>Contactez moi pour organiser une visite de ce bien.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Amélie Lacombe mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ORLEANS sous le numéro 904542941, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
+  "description": "iad France - Amélie Lacombe vous propose: ORLÉANS - MAISON - T5 126M² - GARAGE - PARKING - LUMINEUX<br>Bénéficiant d'une exposition plein Sud, cette maison à Orléans, construite en 2016 avec de belles prestations, offre un cadre de vie lumineux et confortable sur 126 m² habitables, répartis sur 2 niveaux.<br>L'entrée accueille agréablement et distribue les pièces de vie du rez-de-chaussée. Le séjour et le salon, lumineux grâce à l'orientation Sud, forment un espace de vie convivial et aéré. La cuisine ouverte de 16 m², fonctionnelle, s'intègre à l'ensemble. Un cellier pratique complète ce niveau ainsi qu'une chambre et une salle d'eau avec WC.<br>À l'étage, 3 chambres offrent de belles surfaces, dont la plus spacieuse, convient bien à une chambre parentale. Une salle de bain, avec douche et baignoire ainsi qu'un WC indépendant assurent le confort de toute la famille.<br>La maison dispose d'un jardin ensoleillé sur un terrain de 600 m², adapté pour profiter des bons jours. Un garage et une place de parking complètent ce bien. Côté équipements, la maison est dotée d'un système de chauffage mixte (aérothermie, gaz et insert bois), d'une VMC et de la fibre optique. L'école se trouve à 800 m, le collège et l'arrêt de bus à 1 km.<br>Contactez moi pour organiser une visite de ce bien lumineux et bien équipé.<br>Honoraires d'agence à la charge du vendeur.<br>La présentation d'une pièce d'identité en cours de validité sera demandée à la visite, conformément à l'article L.561-5 du Code monétaire et financier. Les informations sur les risques auxquels ce bien est exposé, y compris l'obligation légale de débroussaillement, sont disponibles sur le site Géorisques : http://www.georisques.gouv.fr.<br>La présente annonce immobilière a été rédigée sous la responsabilité éditoriale de Mme Amélie Lacombe mandataire indépendant en immobilier (sans détention de fonds), agent commercial de la SAS I@D France immatriculé au RSAC de ORLEANS sous le numéro 904542941, titulaire de la carte de démarchage immobilier pour le compte de la société I@D France SAS.",
   "photos": [
-   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da76eba49ffcfd005b64bae1f9.jpg",
-   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da77dcf4cefa8c12580542c8d7.jpg",
-   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da7d6c686973c71c19faa4034f.jpg",
-   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da77b78bdf05ccea82a7f71634.jpg",
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da777774ded006d5e6ea10e7a4.jpg",
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da77240e323d64d7fb4b12b23b.jpg",
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da77486dfee4ba7b2e8e28c03d.jpg",
@@ -9604,7 +9600,11 @@
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da79f7d6a6fe34f48fea6c31b0.jpg",
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da7aa0978b47433dd1a0120112.jpg",
    "https://images.playiad.com/property/broadcast/2026/05/14/019e25da78e50272d86b611c523066b1.jpg",
-   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da7459bcb560ba841cfd667205.jpg"
+   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da7459bcb560ba841cfd667205.jpg",
+   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da74c029b429caecb8de093443.jpg",
+   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da749d668ca8eb81e5af59b7ca.jpg",
+   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da75ea6c389372997362287e5c.jpg",
+   "https://images.playiad.com/property/broadcast/2026/05/14/019e25da7a829bb1320f4bc7d460ce01.jpg"
   ],
   "vendeur": "mandatary",
   "type_annonce": "buy",
@@ -9768,7 +9768,7 @@
   "dpe": "B",
   "dpe_valeur": 103,
   "annee": 1973,
-  "description": "Située dans un secteur très calme et particulièrement recherché du sud de l'agglomération d'Orléans, cette maison offre une surface habitable de 135 m², parfaitement adaptée à une vie de famille.<br>Au rez-de-chaussée, vous serez séduits par un vaste espace de vie, regroupant salon et salle à manger, ouvert sur une cuisine conviviale le tout donnant accès a une véranda exposée plein ouest. Trois chambres, ainsi qu'une salle de bain, complètent ce niveau, un atout rare et très apprécié permettant de vivre de plain-pied.<br>À l'étage, un large palier offre de nombreuses possibilités d'aménagement : bureau, salle de jeux ou coin détente. Vous y trouverez également une quatrième chambre, un cabinet de toilette, un WC ainsi qu'une très grande pièce sous combles de plus de 35 m² au sol, laissant libre cours à vos projets (suite parentale, espace loisirs, atelier?).<br>Un autre atout majeur de cette maison réside dans son confort thermique et sa performance énergétique : équipée d'une pompe à chaleur et d'une climatisation réversible, elle bénéficie d'un DPE classé en B, un niveau particulièrement rare et recherché.<br>Le tout est implanté dans un environnement paisible, alliant confort et praticité, idéal pour une famille en quête d'espace et de sérénité à proximité d'Orléans.<br> (4.80 % d'honoraires TTC à la charge de l'acquéreur.) Olivia MOY (EI) Agent Commercial - Numéro RSAC :  - .",
+  "description": "Située dans un secteur très calme et particulièrement recherché du sud de l'agglomération d'Orléans, cette maison offre une surface habitable de 135 m², parfaitement adaptée à une vie de famille.<br>Au rez-de-chaussée, vous serez séduits par un vaste espace de vie, regroupant salon et salle à manger, ouvert sur une cuisine conviviale le tout donnant accès a une véranda exposée plein ouest. Trois chambres, ainsi qu'une salle de bain, complètent ce niveau, un atout rare et très apprécié permettant de vivre de plain-pied.<br>À l'étage, un large palier offre de nombreuses possibilités d'aménagement : bureau, salle de jeux ou coin détente. Vous y trouverez également une quatrième chambre, un cabinet de toilette, un WC ainsi qu'une très grande pièce sous combles de plus de 35 m² au sol, laissant libre cours à vos projets (suite parentale, espace loisirs, atelier?).<br>Un autre atout majeur de cette maison réside dans son confort thermique et sa performance énergétique : équipée d'une pompe à chaleur et d'une climatisation réversible, elle bénéficie d'un DPE classé en B, un niveau particulièrement rare et recherché.<br>Le tout est implanté dans un environnement paisible, alliant confort et praticité, idéal pour une famille en quête d'espace et de sérénité à proximité d'Orléans.<br> (4.80 % d'honoraires TTC à la charge de l'acquéreur.) Olivia MOY (EI) Agent Commercial - Numéro RSAC : 901560045 - Orleans.",
   "photos": [
    "https://media.immo-facile.com/office8/4_immobilier_olivet/catalog/images/pr_p/5/8/8/5/2/3/8/8/58852388a.jpg?DATEMAJ=06/11/2026-10:31:48",
    "https://media.immo-facile.com/office8/4_immobilier_olivet/catalog/images/pr_p/5/8/8/5/2/3/8/8/58852388b.jpg?DATEMAJ=06/11/2026-10:31:48",
@@ -12653,7 +12653,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -17338,16 +17338,16 @@
   "photos": [
    "https://img.netty.immo/product/company52632quc/VM366/1795162542_VM366_20_original.jpg",
    "https://img.netty.immo/product/company52632quc/VM366/1775629767_VM366_12_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629764_VM366_5_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629770_VM366_18_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629764_VM366_6_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629769_VM366_16_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629768_VM366_15_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629766_VM366_9_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770230_VM366_28_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770229_VM366_27_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770229_VM366_26_original.jpg",
    "https://img.netty.immo/product/company52632quc/VM366/1775629765_VM366_7_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629765_VM366_8_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629766_VM366_10_original.jpg",
-   "https://img.netty.immo/product/company52632quc/VM366/1775629767_VM366_11_original.jpg"
+   "https://img.netty.immo/product/company52632quc/VM366/1772034582_VM366_4_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770228_VM366_23_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770228_VM366_24_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795770228_VM366_25_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795163221_VM366_22_original.jpg",
+   "https://img.netty.immo/product/company52632quc/VM366/1795163195_VM366_21_original.jpg"
   ],
   "vendeur": "agency",
   "type_annonce": "buy",
