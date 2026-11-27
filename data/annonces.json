@@ -1822,7 +1822,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -2588,7 +2588,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -4106,7 +4106,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -4397,7 +4397,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -4985,7 +4985,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -5857,13 +5857,13 @@
   "jardin": null,
   "publication": "1970-01-01T00:00:00.000Z",
   "baisse_signalee": false,
-  "lat": 47.90231558415278,
-  "lon": 1.9025520851468007,
+  "lat": 47.902278584152775,
+  "lon": 1.902538082139016,
   "bbox": [
-   1.895852123100981,
-   47.89782387709753,
-   1.9092520471926204,
-   47.90680729120803
+   1.895838124882083,
+   47.89778687709754,
+   1.9092380393959492,
+   47.90677029120801
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
@@ -5924,8 +5924,8 @@
    47.933538903
   ],
   "premier_vu": "2026-11-15",
-  "vu_le": "2026-11-25",
-  "active": false,
+  "vu_le": "2026-11-27",
+  "active": true,
   "historique": [
    {
     "date": "2026-11-15",
@@ -6283,7 +6283,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -7145,12 +7145,12 @@
   "annee": null,
   "description": "DEVENEZ PROPRIÉTAIRE À ORLÉANS : MAISON OU APPARTEMENTS NEUFS AVEC TOIT-TERRASSE OU JARDIN PRIVATIFAu sud d'Orléans, dans le quartier calme et verdoyant du Jardin du Val Ouest, Sully Immobilier et la SEMDO vous présentent Confidences, une résidence à taille humaine pensée pour votre bien-être. La perle rare encore disponible : devenez propriétaire d'un superbe appartement sur le toit avec une terrasse à coupé le souffle! Une architecture tournée vers la lumière : de larges baies vitrées baignent chaque pièce de lumière naturelle et offrent des espaces de vie agréables à vivre au quotidien. De beaux espaces extérieurs : jardins privatifs exposés plein sud ou toits-terrasses : profitez de votre propre coin de verdure ou de ciel pour vous détendre en famille ou recevoir vos amis. Un quotidien simplifié : écoles, commerces et transports se trouvent à proximité immédiate. Maison 4 piècesAppartements du studio au 4 pièces, trouvez le logement qui correspond à votre projet. Des solutions pour financer votre achat :Prêt à taux zéro (PTZ) : financez jusqu'à 50 % de votre résidence principale sans intérêts*. Dispositif Jeanbrun : investissez dans l'immobilier locatif neuf tout en réduisant vos impôts*. Ne laissez pas passer cette occasion de vivre dans un cadre paisible, pratique et idéal pour toute la famille. Contactez-nous dès aujourd'hui pour une simulation personnalisée et gratuite. *Sous conditions d'éligibilité, notamment de ressources. Renseignez-vous auprès de nos conseillers.",
   "photos": [
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/0e0033e1ea76609a2fea5cb4686ad117.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/0ce921b28f612d6d498a705a118388ae.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/c7830a0616fa70dd83823f62661b458d.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/1692f16a66d4920d19ecb94966b44fb7.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/0f6aa2b3091176790afb665383a9a295.jpg",
-   "https://gestion-flux.click-call.com/flux/sully/b81223f7c6c7d6ac3762f3ece20cb845/78c1425ebcfc10e308f9bdc27a348df1.jpg"
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0e0033e1ea76609a2fea5cb4686ad117.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0ce921b28f612d6d498a705a118388ae.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/c7830a0616fa70dd83823f62661b458d.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/1692f16a66d4920d19ecb94966b44fb7.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/0f6aa2b3091176790afb665383a9a295.jpg",
+   "https://gestion-flux.click-call.com/flux/sully/5ee83ac1269c8eca2c2d1979f481461e/78c1425ebcfc10e308f9bdc27a348df1.jpg"
   ],
   "vendeur": "developer",
   "type_annonce": "buy",
@@ -7871,7 +7871,7 @@
   ],
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -14950,7 +14950,7 @@
   "bbox": null,
   "premier_vu": "2026-11-15",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-15",
@@ -15530,7 +15530,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Vente maison Fay-aux-Loges (45450) 190 m² 285.000 EUR",
+  "description": "Vente maison Fay-aux-Loges (45450), 190 m², 285 000 EUR (alerte e-mail PAP)",
   "photos": [
    "https://cdn.pap.fr/photos/pap/7a/82/7a82f7db4218ad2881b07c4933419cef/7-p2.jpg"
   ],
@@ -18892,7 +18892,7 @@
   "flou_rayon": 50,
   "premier_vu": "2026-11-26",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-26",
@@ -19032,7 +19032,7 @@
   "flou_rayon": 250,
   "premier_vu": "2026-11-26",
   "vu_le": "2026-11-27",
-  "active": true,
+  "active": false,
   "historique": [
    {
     "date": "2026-11-26",
@@ -19103,7 +19103,7 @@
  "leboncoin:3318494390": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3318494390.htm",
-  "titre": "Maison 6 pièces 110 m² - Traînou",
+  "titre": "Maison 6 pièces 110 m²",
   "ville": "Traînou",
   "cp": "45470",
   "prix": 302060,
@@ -19114,7 +19114,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 110 m² · Terrain : 1479m² · Traînou 45470",
+  "description": "Maison · 6 pièces · 110 m² · Terrain : 1479 m² (alerte e-mail Leboncoin, pro)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/5c/b2/86/5cb286d95436b37094661d8871dc40cc7fed0af8?rule=ad-image"
   ],
@@ -19143,7 +19143,7 @@
  "leboncoin:3318494379": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3318494379.htm",
-  "titre": "Maison 7 pièces 110 m² - Châteauneuf-sur-Loire",
+  "titre": "Maison 7 pièces 110 m²",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 272570,
@@ -19154,7 +19154,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 7 pièces · 110 m² · Terrain : 1014m² · Châteauneuf-sur-Loire 45110",
+  "description": "Maison · 7 pièces · 110 m² · Terrain : 1014 m² (alerte e-mail Leboncoin, pro)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/87/8f/dc/878fdc5ea3dfbd9137758122186cf6ce6a9834fc?rule=ad-image"
   ],
@@ -19183,7 +19183,7 @@
  "leboncoin:3215317054": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3215317054.htm",
-  "titre": "Maison 6 pièces 140 m² - Fay-aux-Loges",
+  "titre": "Maison 6 pièces 140 m²",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 259000,
@@ -19194,7 +19194,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 140 m² · Terrain : 1336m² · Fay-aux-Loges 45450",
+  "description": "Maison · 6 pièces · 140 m² · Terrain : 1336 m² (alerte e-mail Leboncoin, pro)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/b7/73/ed/b773ed28c4b60b31145cb8c9aa699df736965834?rule=ad-image"
   ],
@@ -19223,7 +19223,7 @@
  "leboncoin:3318112846": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3318112846.htm",
-  "titre": "Maison 6 pièces 147 m² - Fay-aux-Loges",
+  "titre": "Maison 6 pièces 147 m²",
   "ville": "Fay-aux-Loges",
   "cp": "45450",
   "prix": 219500,
@@ -19234,7 +19234,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 6 pièces · 147 m² · Terrain : 222m² · Fay-aux-Loges 45450",
+  "description": "Maison · 6 pièces · 147 m² · Terrain : 222 m² (alerte e-mail Leboncoin, pro)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c8/5a/b7/c85ab7a00878d83689ba2a7edd1d18de27d64210?rule=ad-image"
   ],
@@ -19263,7 +19263,7 @@
  "leboncoin:3318009811": {
   "source": "leboncoin",
   "url": "https://www.leboncoin.fr/vi/3318009811.htm",
-  "titre": "Maison 7 pièces 160 m² - Châteauneuf-sur-Loire",
+  "titre": "Maison 7 pièces 160 m²",
   "ville": "Châteauneuf-sur-Loire",
   "cp": "45110",
   "prix": 252000,
@@ -19274,7 +19274,7 @@
   "dpe": null,
   "dpe_valeur": null,
   "annee": null,
-  "description": "Maison · 7 pièces · 160 m² · Terrain : 894m² · Châteauneuf-sur-Loire 45110",
+  "description": "Maison · 7 pièces · 160 m² · Terrain : 894 m² (alerte e-mail Leboncoin, pro)",
   "photos": [
    "https://img.leboncoin.fr/api/v1/lbcpb1/images/c9/43/72/c94372d2298ee09c3f11187d9a80fd09d6526798?rule=ad-image"
   ],
